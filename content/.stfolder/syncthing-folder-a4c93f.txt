@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: bsv3z-j5nvd
+created: 2026-05-19T23:08:29+02:00

@@ -6,12 +6,12 @@ tags:
 
 ![](../Assets/personaggi/zodiaca.jpg)
 
-|                        |                                                                            |
-| ---------------------- | -------------------------------------------------------------------------- |
-| **Interpretato da**    | Edoardo                                                                    |
+|                        |                 |
+| ---------------------- | --------------- |
+| **Interpretato da**    | Edoardo         |
 | **Prima apparizione**  | [[Puntata 001]] |
-| **Ultima apparizione** | [[Puntata 001]] |
-| **Numero apparizioni** | 1                                                                          |
+| **Ultima apparizione** | [[Puntata 002]] |
+| **Numero apparizioni** | 2               |
 
 ---
 
@@ -25,9 +25,10 @@ Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla 
 
 ## Apparizioni
 
-| Puntata                                                                    | Data       | Contesto                                                                                                                 |
-| -------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Puntata         | Data       | Contesto                                                                                                                 |
+| --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [[Puntata 001]] | 13/03/2020 | Protagonista della rubrica di chiusura "La Zodiaca", dove rivela il destino dei segni zodiacali prima dei saluti finali. |
+| [[Puntata 002]] | 20/03/2020 | Protagonista della rubrica di chiusura "La Zodiaca", dove rivela il destino dei segni zodiacali prima dei saluti finali. |
 
 ---
 

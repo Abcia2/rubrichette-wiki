@@ -11,12 +11,14 @@ durata: "00:00"
 
 ![copertina](../Assets/copertine/ep001.jpg)
 
-| | |
-|---|---|
-| **Numero** | 001 |
-| **Data** | GG/MM/AAAA |
-| **Link** | [Guarda su YouTube](https://youtu.be/XXXXXXXXX) |
-| **Durata** | 00:00 |
+|                    |                                                 |
+| ------------------ | ----------------------------------------------- |
+| **Numero**         | 001                                             |
+| **Data**           | GG/MM/AAAA                                      |
+| **Link**           | [Guarda su YouTube](https://youtu.be/XXXXXXXXX) |
+| **Durata**         | 00:00                                           |
+| Puntata Precedente |                                                 |
+| Puntata Successiva |                                                 |
 
 ---
 

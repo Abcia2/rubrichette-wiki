@@ -1,6 +1,7 @@
 ---
 tags:
   - puntata
+  - Rubrichette
 numero: "001"
 data: 2020-03-13
 link: https://youtu.be/zZFsHUcCd5k
@@ -10,12 +11,14 @@ durata: 03:58
 
 ![copertina](../Assets/copertine/ep001.jpg)
 
-|            |                                                   |
-| ---------- | ------------------------------------------------- |
-| **Numero** | 001                                               |
-| **Data**   | 13/03/2020                                        |
-| **Link**   | [Guarda su YouTube](https://youtu.be/zZFsHUcCd5k) |
-| **Durata** | 03:58                                             |
+|                    |                                                   |
+| ------------------ | ------------------------------------------------- |
+| **Numero**         | 001                                               |
+| **Data**           | 13/03/2020                                        |
+| **Link**           | [Guarda su YouTube](https://youtu.be/zZFsHUcCd5k) |
+| **Durata**         | 03:58                                             |
+| Puntata Precedente | -                                                 |
+| Puntata Successiva | [[Puntata 002]]                                   |
 
 ---
 

@@ -19,12 +19,13 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 
 ## Ultime puntate aggiunte
 - [[Puntata 001]]
+- [[Puntata 002]]
 
 ---
 
 ## Statistiche
 - **Puntate totali:** 154
-- **Puntate documentate:** 0
+- **Puntate documentate:** 2
 - **Rubriche ricorrenti:** 0
 - **Personaggi:** 0
 

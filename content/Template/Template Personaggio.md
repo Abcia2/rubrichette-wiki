@@ -6,12 +6,12 @@ tags:
 
 ![](../Assets/personaggi/nome-personaggio.jpg)
 
-| | |
-|---|---|
-| **Interpretato da** | Edoardo / Alberto / Entrambi |
-| **Prima apparizione** | [[Puntata 001 - Titolo]] |
-| **Ultima apparizione** | [[Puntata 001 - Titolo]] |
-| **Numero apparizioni** | 1 |
+|                        |                              |
+| ---------------------- | ---------------------------- |
+| **Interpretato da**    | Edoardo / Alberto / Entrambi |
+| **Prima apparizione**  | [[Puntata 001 - Titolo]]     |
+| **Ultima apparizione** | [[Puntata 001 - Titolo]]     |
+| **Numero apparizioni** | 1                            |
 
 ---
 
