@@ -1,7 +1,6 @@
 ---
 tags:
   - puntata
-  - Rubrichette
 numero: "001"
 data: 2020-03-13
 link: https://youtu.be/zZFsHUcCd5k
