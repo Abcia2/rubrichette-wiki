@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg";
-import * as Plugin from "./quartz/plugins";
+import { QuartzConfig } from "./quartz/cfg"
+import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4 Configuration
@@ -78,7 +78,16 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: (a, b) => {
+          const aTitle = a.frontmatter?.title ?? ""
+          const bTitle = b.frontmatter?.title ?? ""
+          return aTitle.localeCompare(bTitle, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        },
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
@@ -92,6 +101,6 @@ const config: QuartzConfig = {
       //Plugin.CustomOgImages(),
     ],
   },
-};
+}
 
-export default config;
+export default config

@@ -38,21 +38,21 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-  sortFn: (a, b) => {
-    const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
-    const aIdx = order.indexOf(a.displayName)
-    const bIdx = order.indexOf(b.displayName)
+      sortFn: (a, b) => {
+        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
+        const aIdx = order.indexOf(a.displayName)
+        const bIdx = order.indexOf(b.displayName)
 
-    if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
-    if (aIdx !== -1) return -1
-    if (bIdx !== -1) return 1
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
 
-    return a.displayName.localeCompare(b.displayName, undefined, {
-      numeric: true,
-      sensitivity: "base",
-    })
-  },
-}),
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
+      },
+    }),
   ],
   right: [
     //Component.Graph(),
@@ -80,7 +80,22 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
+        const aIdx = order.indexOf(a.displayName)
+        const bIdx = order.indexOf(b.displayName)
+
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
+
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
+      },
+    }),
   ],
   right: [],
 }
