@@ -1,5 +1,5 @@
-import { PageLayout, SharedLayout } from "./quartz/cfg";
-import * as Component from "./quartz/components";
+import { PageLayout, SharedLayout } from "./quartz/cfg"
+import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,11 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Wiki non ufficiale di Rubrichette":
-        "https://www.youtube.com/@EdoardoZaggia",
+      "Wiki non ufficiale di Rubrichette": "https://www.youtube.com/@EdoardoZaggia",
     },
   }),
-};
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -38,14 +37,29 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  sortFn: (a, b) => {
+    const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
+    const aIdx = order.indexOf(a.displayName)
+    const bIdx = order.indexOf(b.displayName)
+
+    if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+    if (aIdx !== -1) return -1
+    if (bIdx !== -1) return 1
+
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  },
+}),
   ],
   right: [
     //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     //Component.Backlinks(),
   ],
-};
+}
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
@@ -69,4 +83,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
-};
+}
