@@ -9,11 +9,13 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 
 ## Navigazione
 
-| Sezione | Descrizione |
-|---|---|
-| 📺 [[Puntate/]] | Tutte le 154 puntate |
-| 📌 [[Rubriche/]] | Le rubriche ricorrenti |
-| 👤 [[Personaggi/]] | I personaggi del mondo di Rubrichette |
+| Sezione                      | Descrizione                                    |
+| ---------------------------- | ---------------------------------------------- |
+| 📺 [[Puntate/]]              | Tutte le 154 puntate                           |
+| 📌 [[Rubriche/]]             | Le rubriche ricorrenti                         |
+| 👤 [[Personaggi/]]           | I personaggi del mondo di Rubrichette          |
+| 📊 [[Sponsor e Pubblicità/]] | Gli Sponsor e le pubblicità apparsi nello show |
+| ✨ [[Altro/]]                 | Altri elementi del mondo di Rubrichette        |
 
 ---
 
@@ -27,14 +29,5 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - **Puntate totali:** 154
 - **Puntate documentate:** 2
 - **Rubriche ricorrenti:** 0
-- **Personaggi:** 0
-
----
-
-## Come usare questa wiki
-
-1. Ogni **puntata** ha la sua pagina con sigla, frase di benvenuto, riassunto rubriche e chiosa finale
-2. Le **rubriche ricorrenti** hanno una pagina dedicata con tutte le apparizioni
-3. I **personaggi** hanno una pagina individuale con descrizione e apparizioni
-4. Usa i link `[[...]]` per navigare tra le pagine come Wikipedia
-5. I **tag** (`puntata`, `rubrica`, `personaggio`) permettono di filtrare i contenuti
+- **Personaggi:** 1
+- **Sponsor e Pubblicità**: 1

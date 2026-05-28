@@ -89,21 +89,21 @@ Una sezione dedicata alla presentazione di snack assurdi e parodistici creati da
 Il conduttore introduce la rubrica chiedendo al pubblico se sente un "languorino" o se ha bisogno di uno snack nutriente per fare attività fisica, proprio come i personal trainer che si vedono online
 #### Riassunto del contenuto
 Vengono presentati due prodotti:
-##### V-Ovetto Kinder
+##### U-Ovetto Kinder
 Un uovo di cioccolato che, al posto della solita sorpresa, contiene un "uomo vero". È descritto come una carica di proteine che però fa passare la voglia di vivere
 
 ![[Assets/screenshot/ep002/ep002_1.jpg]]
-##### Cetri-Tronky
+##### Cetry-Tronki
 Uno snack che unisce la bontà del cioccolato alla semplicità del cetriolo. Viene definito un prodotto "contro le occhiaie ma a favore della cellulite" e come lo snack perfetto da consumare durante le pause di registrazione.
 
 ![[Assets/screenshot/ep002/ep002_2.jpg]]
 
-Viene raccomandato di **non confonderlo** con il _Cetri-Tronky_ (un'imitazione del prodotto originale)
+Viene raccomandato di **non confonderlo** con il _Cetry-Tronki_ (un'imitazione del prodotto originale)
 
 ![[Assets/screenshot/ep002/ep002_3.jpg]]
 #### Curiosità e interazione
-- **Curiosità**: Il sapore del Cetri-Tronky viene descritto come "cioccolato annacquato" con note di "acqua di fosso". Il conduttore arriva a dire che sembra essere stato nella bocca di un morto.
-- **Interazione**: Viene chiesto al pubblico se, secondo loro, i panini alla Nutella alle feste dei bambini dovrebbero essere sostituiti dai Cetri-Tronky
+- **Curiosità**: Il sapore del Cetry-Tronki viene descritto come "cioccolato annacquato" con note di "acqua di fosso". Il conduttore arriva a dire che sembra essere stato nella bocca di un morto.
+- **Interazione**: Viene chiesto al pubblico se, secondo loro, i panini alla Nutella alle feste dei bambini dovrebbero essere sostituiti dai Cetry-Tronki
 
 ---
 ### 2. Momentino Cineforum
