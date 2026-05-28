@@ -2,7 +2,6 @@
 tags:
   - rubrica
 ---
-
 # Nome Rubrica
 
 ## Cos'è

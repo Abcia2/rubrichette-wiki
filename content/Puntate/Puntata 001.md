@@ -27,7 +27,7 @@ durata: 03:58
 ---
 
 ## Benvenuti a Rubrichette…
-> *"Il primo show autoprodotto direttamente dagli studi Of My Home (de casa mia)"*
+> *"Il primo show autoprodotto direttamente dagli studi Of My Home (de casa mia)"* ([[Of My Home Productions]])
 
 ---
 ## Prima Puntata
@@ -79,9 +79,9 @@ Pillon accusa il governo di voler imporre un "diktat omosessualista" approfittan
 Viene introdotta come l'ultimo momento del programma prima dei saluti finali, con la frase: "Prima di salutarci scopriamo cos’hanno in serbo per noi le stelle".
 #### Riassunto del contenuto
 Le stelle danno consigli molto specifici e bizzarri:
-- Pesci: Viene ricordato che una Viennetta dimenticata in freezer da tre mesi e mezzo scadrà questo venerdì.
-- Capricorno: Per chi cerca nuove esperienze, il consiglio astrale è di provare la Viennetta.
-- Sagittario: A causa della troppa golosità del periodo, le stelle prescrivono una dieta.
+- **Pesci**: Viene ricordato che una Viennetta dimenticata in freezer da tre mesi e mezzo scadrà questo venerdì.
+- **Capricorno**: Per chi cerca nuove esperienze, il consiglio astrale è di provare la Viennetta.
+- **Sagittario**: A causa della troppa golosità del periodo, le stelle prescrivono una dieta.
 #### Personaggi
 A presidiare la rubrica è l'enigmatica figura de' [[La Zodiaca]]
 
