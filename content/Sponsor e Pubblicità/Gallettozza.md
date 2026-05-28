@@ -7,11 +7,11 @@ tipo: fittizia
 
 ![[sponsor_gallettozza_01.jpg]]
 
-| **Tipo**               | Reale / Fittizia |
-| ---------------------- | ---------------- |
-| **Presentata da**      | Edoardo          |
-| **Apparizioni**        | [[Puntata 002]]  |
-| **Numero apparizioni** | 1                |
+| **Tipo**               | Fittizia        |
+| ---------------------- | --------------- |
+| **Presentata da**      | Edoardo         |
+| **Apparizioni**        | [[Puntata 002]] |
+| **Numero apparizioni** | 1               |
 
 ---
 

@@ -20,23 +20,19 @@ durata: 00:00
 | Puntata Successiva |                                                 |
 
 ---
-
 ## Descrizione
 > [Descrizione del video da YouTube]
 
 ---
-
 ## Benvenuti a Rubrichette…
 > *"[frase della puntata]"*
 
 ---
-
 ## Sigla
 
 ![[ep001.mp4]]
 
 ---
-
 ## Rubriche
 
 ### 1. Nome Rubrica
@@ -45,50 +41,38 @@ durata: 00:00
 
 #### Collegamento
 [Come viene introdotta la rubrica, il pretesto narrativo]
-
 #### Riassunto del contenuto
 [Cosa succede nella rubrica]
-
 #### Curiosità, personaggi e ospiti speciali
 [Personaggi con nome, ospiti, dettagli particolari. Rimuovi questa sezione se non ce ne sono.]
 
 ---
-
 ### 2. Nome Rubrica
 
 ![[Assets/rubriche/ep001/ep001_2.jpg]]
-
 #### Collegamento
 [Come viene introdotta la rubrica]
-
 #### Riassunto del contenuto
 [Cosa succede nella rubrica]
-
 #### Curiosità, personaggi e ospiti speciali
 [Dettagli particolari. Rimuovi questa sezione se non ce ne sono.]
 
 ---
-
 ### 3. Nome Rubrica
 
 ![[Assets/rubriche/ep001/ep001_3.jpg]]
-
 #### Collegamento
 [Come viene introdotta la rubrica]
-
 #### Riassunto del contenuto
 [Cosa succede nella rubrica]
-
 #### Curiosità, personaggi e ospiti speciali
 [Dettagli particolari. Rimuovi questa sezione se non ce ne sono.]
 
 ---
-
 ## Personaggi apparsi
 - [[Nome Personaggio]]
 
 ---
-
 ## Cliffhanger finale
 > *"[battuta di chiusura]"*
 

@@ -17,7 +17,7 @@ durata: 05:18
 | **Link**           | [Guarda su YouTube](https://youtu.be/v57QZMWC100) |
 | **Durata**         | 05:18                                             |
 | Puntata Precedente | [[Puntata 001]]                                   |
-| Puntata Successiva |                                                   |
+| Puntata Successiva | [[Puntata 003]]                                   |
 
 ---
 

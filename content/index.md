@@ -22,6 +22,7 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 ## Ultime puntate aggiunte
 - [[Puntata 001]]
 - [[Puntata 002]]
+- [[Puntata 003]]
 
 ---
 

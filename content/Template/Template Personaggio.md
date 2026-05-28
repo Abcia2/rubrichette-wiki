@@ -14,19 +14,16 @@ tags:
 | **Numero apparizioni** | 1                            |
 
 ---
-
 ## Descrizione
 [Chi è, come si comporta, tratti fisici e caratteriali distintivi.]
 
 ---
-
 ## Apparizioni
 
-| Puntata | Data | Contesto |
-|---|---|---|
+| Puntata                  | Data       | Contesto                         |
+| ------------------------ | ---------- | -------------------------------- |
 | [[Puntata 001 - Titolo]] | GG/MM/AAAA | [Breve descrizione del contesto] |
 
 ---
-
 ## Note e curiosità
 [Dettagli particolari, evoluzioni del personaggio nel tempo.]
