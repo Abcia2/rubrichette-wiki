@@ -11,7 +11,7 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 
 | Sezione                      | Descrizione                                    |
 | ---------------------------- | ---------------------------------------------- |
-| 📺 [[Puntate/]]              | Tutte le 154 puntate                           |
+| 📺 [[Puntate/]]              | Tutte le 153 puntate                           |
 | 📌 [[Rubriche/]]             | Le rubriche ricorrenti                         |
 | 👤 [[Personaggi/]]           | I personaggi del mondo di Rubrichette          |
 | 📊 [[Sponsor e Pubblicità/]] | Gli Sponsor e le pubblicità apparsi nello show |
@@ -27,8 +27,8 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 ---
 
 ## Statistiche
-- **Puntate totali:** 154
-- **Puntate documentate:** 2
+- **Puntate totali:** 153
+- **Puntate documentate:** 3
 - **Rubriche ricorrenti:** 0
 - **Personaggi:** 1
 - **Sponsor e Pubblicità**: 1
