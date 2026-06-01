@@ -22,7 +22,8 @@ durata: 03:58
 ---
 
 ## Descrizione
-> Benvenut* alla prima puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨ Uno show che non promette nulla e che quindi non può deludere le tue aspettative! A proposito di aspettative questo video migliorerà la tua vita del 200%! Commenta , iscriviti, fai un salto, fanne un altro e non dimenticare di dare un bacio a chi vuoi tu!
+> Benvenut* alla prima puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨ Uno show che non promette nulla e che quindi non può deludere le tue aspettative! 
+> A proposito di aspettative questo video migliorerà la tua vita del 200%! Commenta , iscriviti, fai un salto, fanne un altro e non dimenticare di dare un bacio a chi vuoi tu!
 
 ---
 
