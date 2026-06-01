@@ -17,12 +17,14 @@ durata: 05:12
 | **Link**           | [Guarda su YouTube](https://youtu.be/t6xxUG-Z1eo) |
 | **Durata**         | 05:12                                             |
 | Puntata Precedente | [[Puntata 004]]                                   |
-| Puntata Successiva |                                                   |
+| Puntata Successiva | [[Puntata 006]]                                   |
 
 ---
 ## Descrizione
-> Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! L’unico show che esce durante la Pasqua, ma non richiede digiuno. 
-> In cerca di emozioni forti durante la quarantena? Un orecchino fatto in casa è la risposta giusta! Rubrichette è lieta di spiegarti come fare con il tutorial meno preciso della storia. Per festeggiare il nostro mesiversario e i primi 100 iscritti abbiamo scomodato la coppia gay meno famosa d'Italia.
+> Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> L’unico show che esce durante la Pasqua, ma non richiede digiuno. 
+> In cerca di emozioni forti durante la quarantena? Un orecchino fatto in casa è la risposta giusta! Rubrichette è lieta di spiegarti come fare con il tutorial meno preciso della storia. 
+> Per festeggiare il nostro mesiversario e i primi 100 iscritti abbiamo scomodato la coppia gay meno famosa d'Italia.
 
 ---
 ## Benvenuti a Rubrichette…

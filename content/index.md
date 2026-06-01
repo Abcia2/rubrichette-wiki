@@ -27,7 +27,7 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - [[Puntata 002]]
 - [[Puntata 003]]
 - [[Puntata 004]]
-- - [[Puntata 005]]
+- [[Puntata 005]]
 
 ---
 

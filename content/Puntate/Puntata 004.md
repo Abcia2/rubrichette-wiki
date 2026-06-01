@@ -21,8 +21,10 @@ durata: 05:19
 
 ---
 ## Descrizione
-> Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! L’unico show per cui abbiamo aperto una raccolta fondi, ma non ha donato nessuno. 
-> Stai molto tempo a casa e vorresti rinfrescare l’arredamento? Vuoi leggere una storia per adulti (adatta anche ai bambini)? In generale ti domandi ogni giorno: “Cosa fare quando non sai cosa fare?” Questo è il video perfetto per te!
+> Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> L’unico show per cui abbiamo aperto una raccolta fondi, ma non ha donato nessuno. 
+> Stai molto tempo a casa e vorresti rinfrescare l’arredamento? Vuoi leggere una storia per adulti (adatta anche ai bambini)? 
+> In generale ti domandi ogni giorno: “Cosa fare quando non sai cosa fare?” Questo è il video perfetto per te!
 
 ---
 ## Benvenuti a Rubrichette…

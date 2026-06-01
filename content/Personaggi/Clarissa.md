@@ -6,12 +6,12 @@ tags:
 
 ![[clarissa_1.jpg]]
 
-|                        |                          |
-| ---------------------- | ------------------------ |
-| **Interpretato da**    | Edoardo                  |
-| **Prima apparizione**  | [[Puntata 004]]          |
-| **Ultima apparizione** | [[Puntata 001 - Titolo]] |
-| **Numero apparizioni** | 1                        |
+|                        |                 |
+| ---------------------- | --------------- |
+| **Interpretato da**    | Edoardo         |
+| **Prima apparizione**  | [[Puntata 004]] |
+| **Ultima apparizione** | [[Puntata 006]] |
+| **Numero apparizioni** | 2               |
 
 ---
 ## Descrizione
@@ -21,9 +21,10 @@ La sua presenza è poliedrica. Il suo lavoro consiste nel fornire le proprie man
 ---
 ## Apparizioni
 
-| Puntata         | Data       | Contesto                                            |
-| --------------- | ---------- | --------------------------------------------------- |
-| [[Puntata 004]] | 03/04/2020 | Modella tecnica dedicata alla sezione del fai-da-te |
+| Puntata         | Data       | Contesto                                                                                                     |
+| --------------- | ---------- | ------------------------------------------------------------------------------------------------------------ |
+| [[Puntata 004]] | 03/04/2020 | Modella tecnica dedicata alla sezione del fai-da-te                                                          |
+| [[Puntata 006]] | 17/04/2020 | Presta le sue mani per realizzare delle opere di arte moderna nella rubrica [[Puntata 006#1. Emanando ARTE]] |
 
 ---
 ## Note e curiosità
