@@ -24,7 +24,7 @@ Lo sponsor viene introdotto all'inizio della puntata, subito dopo la sigla, rivo
 
 ## Video sponsor
 
-![[sponsor_gallettozza_01.mp4]]
+![[Assets/sponsor/gallettozza/sponsor_gallettozza_01.mp4]]
 
 ---
 

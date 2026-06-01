@@ -10,8 +10,8 @@ tags:
 | ---------------------- | --------------- |
 | **Interpretato da**    | Edoardo         |
 | **Prima apparizione**  | [[Puntata 001]] |
-| **Ultima apparizione** | [[Puntata 002]] |
-| **Numero apparizioni** | 2               |
+| **Ultima apparizione** | [[Puntata 005]] |
+| **Numero apparizioni** | 3               |
 
 ---
 
@@ -25,10 +25,11 @@ Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla 
 
 ## Apparizioni
 
-| Puntata         | Data       | Contesto                                                                                                                 |
-| --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [[Puntata 001]] | 13/03/2020 | Protagonista della rubrica di chiusura "La Zodiaca", dove rivela il destino dei segni zodiacali prima dei saluti finali. |
-| [[Puntata 002]] | 20/03/2020 | Protagonista della rubrica di chiusura "La Zodiaca", dove rivela il destino dei segni zodiacali prima dei saluti finali. |
+| Puntata         | Data       | Contesto                                                                                                                                                  |
+| --------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Puntata 001]] | 13/03/2020 | Protagonista della rubrica di chiusura [[Puntata 001#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
+| [[Puntata 002]] | 20/03/2020 | Protagonista della rubrica di chiusura [[Puntata 002#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
+| [[Puntata 005]] | 10/04/2020 | Protagonista della rubrica di chiusura [[Puntata 005#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
 
 ---
 ## Previsioni
@@ -40,6 +41,10 @@ Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla 
 - **Vergine**: Riceve consigli sull'igiene, come lavarsi spesso le mani o usare gel a base alcolica.
 - **Acquario**: Il destino prevede l'incontro con l'amore della vita al reparto vongole della Lidl, suggerendo di ignorare il distanziamento sociale ("avvicinati a meno di un metro").
 - **Leone**: Viene avvertito del rischio di controlli da parte di un finanziere in borghese mentre scatta foto al parco; il consiglio astrale è di "fingersi morta"
+##### [[Puntata 005]]
+- **Toro:** Viene consigliato un picnic di Pasquetta all'aperto, avvertendo però del rischio di una multa di **746 euro**.
+- **Bilancia:** Esortati a mangiare tutta la cioccolata dell'uovo, ma con l'avvertimento che le sorprese **non sono commestibili**.
+- **Gemelli:** Messaggio diretto a non ascoltare chi suggerisce di farsi un orecchino (chiaro riferimento al tutorial della puntata), perché **"fa molto male"**.
 
 ---
 ## Note e curiosità

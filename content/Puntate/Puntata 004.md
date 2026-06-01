@@ -17,7 +17,7 @@ durata: 05:19
 | **Link**           | [Guarda su YouTube](https://youtu.be/5syX2o2ZciU) |
 | **Durata**         | 05:19                                             |
 | Puntata Precedente | [[Puntata 003]]                                   |
-| Puntata Successiva |                                                   |
+| Puntata Successiva | [[Puntata 005]]                                   |
 
 ---
 ## Descrizione
@@ -26,7 +26,7 @@ durata: 05:19
 
 ---
 ## Benvenuti a Rubrichette…
-> *L'unico show allegretto ma non troppo un po come Tonio Cartonio l'11 settembre... Oh! Accipigna!*
+> *L'unico show allegretto ma non troppo un po' come Tonio Cartonio l'11 settembre... Oh! Accipigna!*
 
 ---
 ## Sigla
