@@ -4,7 +4,7 @@ tags:
 ---
 # Nome Personaggio
 
-![](../Assets/personaggi/nome-personaggio.jpg)
+![[Assets/personaggi/nome-personaggio.jpg]]
 
 |                        |                              |
 | ---------------------- | ---------------------------- |
