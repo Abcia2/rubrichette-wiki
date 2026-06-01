@@ -27,12 +27,15 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - [[Puntata 002]]
 - [[Puntata 003]]
 - [[Puntata 004]]
+- - [[Puntata 005]]
 
 ---
 
 ## Statistiche
 - **Puntate totali:** 153
-- **Puntate documentate:** 4
+- **Puntate documentate:** 5
 - **Rubriche ricorrenti:** 0
 - **Personaggi:** 6
 - **Sponsor e Pubblicità**: 1
+- Tutorial: 1
+- Fiabe, Canzoni e Racconti: 1
