@@ -17,7 +17,7 @@ durata: 06:58
 | **Link**           | [Guarda su YouTube](https://youtu.be/eil1uzuFWq4) |
 | **Durata**         | 06:58                                             |
 | Puntata Precedente | [[Puntata 007]]                                   |
-| Puntata Successiva |                                                   |
+| Puntata Successiva | [[Puntata 009]]                                   |
 
 ---
 ## Descrizione

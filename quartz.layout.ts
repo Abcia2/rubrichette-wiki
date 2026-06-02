@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
+        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Fiabe, Canzoni e Racconti", "Tutorial", "Ricette", "Altro"]
         const aIdx = order.indexOf(a.displayName)
         const bIdx = order.indexOf(b.displayName)
 
@@ -82,7 +82,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Altro"]
+        const order = ["Puntate", "Personaggi", "Sponsor e Pubblicità", "Fiabe, Canzoni e Racconti", "Tutorial", "Ricette", "Altro"]
         const aIdx = order.indexOf(a.displayName)
         const bIdx = order.indexOf(b.displayName)
 
