@@ -1,63 +1,75 @@
 ## Lista dei tag
-
-### Tipologia di contenuto
-- #puntata
+Vedi lista completa con gli articoli inclusi: [[tags/]]
+### Formato del contenuto
+- #altro
+- #canzone
 - #personaggio
 - #pubblicità
+- #puntata
 - #racconto
-- #canzone
-- #tutorial
 - #ricetta
-- #altro
-### Tag sui contenuti
-- #barzellette
-- #omofobia
-- #oroscopo
-- #merenda
-- #recensione-film
-- #scherzo-telefonico
-- #autocertificazione
-- #quiz
-- #favola
-- #fai-da-te
-- #shabby-chic
-- #piercing
-- #pasqua
-- #arte-contemporanea
-- #rassegna-stampa
-- #fotoromanzi
-- #test-personalità
-- #asmr
-- #mèmè
-- #canva
-- #musica
-- #videogiochi
-- #striscia-la-notizia
-- #uccellino
-- #mentore
-- #modella-mani
-- #varesotto
-- #flanella
-- #lepre
-- #trasformazione
-- #inviato-speciale
-- #giornalismo
-- #chirurgia-plastica
-- #magia
-- #rapper
+- #tutorial
+### Argomenti e temi
+#### Cucina e cibo
+- #cucina
+- #dessert
 - #galletta-di-riso
-- #truciolato
-- #arredamento
-- #riciclo-creativo
-- #whatsapp
-- #boomer
-- #dietro-le-quinte
-- #immagini-stock
-- #letteratura
-- #youtube
-- #compleanno 
-- #dessert 
-- #principesse 
-- #cucina 
-- #bijoux
+- #merenda
+#### Arte, musica e letteratura
+- #arte-contemporanea
 - #flauto
+- #letteratura
+- #magia
+- #musica
+- #rapper
+#### Cinema, TV e media
+- #fotoromanzi
+- #recensione-film
+- #striscia-la-notizia
+- #videogiochi
+- #youtube
+#### Strumenti digitali e web
+- #asmr
+- #canva
+- #immagini-stock
+- #whatsapp
+#### Giornalismo e attualità
+- #giornalismo
+- #inviato-speciale
+- #oroscopo
+- #rassegna-stampa
+#### Giochi, quiz e scherzi
+- #barzellette
+- #quiz
+- #scherzo-telefonico
+- #test-personalità
+#### Fai-da-te e arredamento
+- #arredamento
+- #fai-da-te
+- #riciclo-creativo
+- #shabby-chic
+- #truciolato
+#### Moda, bellezza e trasformazioni
+- #bijoux
+- #chirurgia-plastica
+- #flanella
+- #modella-mani
+- #piercing
+- #trasformazione
+#### Feste e ricorrenze
+- #compleanno
+- #pasqua
+#### Mondo fiabesco
+- #favola
+- #principesse
+#### Personaggi e tormentoni
+- #boomer
+- #lepre
+- #mentore
+- #uccellino
+- #varesotto
+#### Meta e varie
+- #autocertificazione
+- #dietro-le-quinte
+- #mèmè
+- #omofobia

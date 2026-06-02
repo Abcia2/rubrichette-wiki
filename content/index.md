@@ -20,6 +20,7 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 | 💡 [[Tutorial/]]                  | I tutorial e le guide per rendere la vostra vita migliore                     |
 | 🍝 [[Ricette/]]                   | Le ricette delle prelibatezza cucinate nello show, degne di Benedetta Parodi  |
 | ✨ [[Altro/]]                      | Altri elementi del mondo di Rubrichette                                       |
+| 🟦 [[Tags]]                       | Lista dei tag utili per la navigazione                                        |
 
 ---
 
