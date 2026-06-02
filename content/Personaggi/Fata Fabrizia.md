@@ -10,8 +10,8 @@ tags:
 | ---------------------- | ----------------------- |
 | **Interpretato da**    | Immagini Stock Gratuite |
 | **Prima apparizione**  | [[Puntata 004]]         |
-| **Ultima apparizione** | [[Puntata 004]]         |
-| **Numero apparizioni** | 1                       |
+| **Ultima apparizione** | [[Puntata 008]]         |
+| **Numero apparizioni** | 2                       |
 
 ---
 ## Descrizione
@@ -33,4 +33,5 @@ Somministra a Donatella la **"pozione di arance shabby chic"**, definita come l'
 | Puntata         | Data       | Contesto                                                                          |
 | --------------- | ---------- | --------------------------------------------------------------------------------- |
 | [[Puntata 004]] | 03/04/2020 | Esaudisce il desiderio della protagonista nel racconto [[La storia di Donatella]] |
+| [[Puntata 008]] | 01/05/2020 | Inserita nella composizione [[Puntata 008#2. Tutorialino Memino Bruttino]]        |
 

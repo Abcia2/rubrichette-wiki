@@ -10,8 +10,8 @@ tags:
 | ---------------------- | ----------------------- |
 | **Interpretato da**    | Immagini Stock Gratuite |
 | **Prima apparizione**  | [[Puntata 004]]         |
-| **Ultima apparizione** | [[Puntata 004]]         |
-| **Numero apparizioni** | 1                       |
+| **Ultima apparizione** | [[Puntata 008]]         |
+| **Numero apparizioni** | 2                       |
 
 ---
 ## Descrizione
@@ -24,9 +24,10 @@ Trascorre il tempo guardando le repliche di _Paint Your Life_ e scattandosi **fo
 ---
 ## Apparizioni
 
-| Puntata         | Data       | Contesto                                                         |
-| --------------- | ---------- | ---------------------------------------------------------------- |
-| [[Puntata 004]] | 03/04/2020 | Padrona di [[Donatella]] nel racconto [[La storia di Donatella]] |
+| Puntata         | Data       | Contesto                                                                   |
+| --------------- | ---------- | -------------------------------------------------------------------------- |
+| [[Puntata 004]] | 03/04/2020 | Padrona di [[Donatella]] nel racconto [[La storia di Donatella]]           |
+| [[Puntata 008]] | 01/05/2020 | Inserita nella composizione [[Puntata 008#2. Tutorialino Memino Bruttino]] |
 
 ---
 ## Il trapper Fernando

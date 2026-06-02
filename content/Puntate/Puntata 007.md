@@ -17,7 +17,7 @@ durata: 07:42
 | **Link**           | [Guarda su YouTube](https://youtu.be/H0Gq16zit5s) |
 | **Durata**         | 07:42                                             |
 | Puntata Precedente | [[Puntata 006]]                                   |
-| Puntata Successiva |                                                   |
+| Puntata Successiva | [[Puntata 008]]                                   |
 
 ---
 ## Descrizione
