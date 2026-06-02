@@ -8,6 +8,7 @@ numero: "006"
 data: 2020-04-17
 link: https://youtu.be/lEunNxveCt8
 durata: 06:19
+title: "Puntata 006 - FOTOROMANZI: CHE PASSIONE!"
 ---
 # FOTOROMANZI: CHE PASSIONE!
 

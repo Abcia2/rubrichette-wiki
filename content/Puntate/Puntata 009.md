@@ -9,6 +9,7 @@ numero: "009"
 data: 2020-05-08
 link: https://youtu.be/g2lHsUmJ990
 durata: 11:24
+title: "Puntata 009 - AMORE, STELLE e STRISCIA LA NOTIZIA: svelo la mia storia col Professor Sebastian"
 ---
 # AMORE, STELLE e STRISCIA LA NOTIZIA: svelo la mia storia col Professor Sebastian
 

@@ -8,6 +8,7 @@ numero: "004"
 data: 2020-04-10
 link: https://youtu.be/t6xxUG-Z1eo
 durata: 05:12
+title: Puntata 005 - ORECCHINO FATTO IN CASA
 ---
 # ORECCHINO FATTO IN CASA
 

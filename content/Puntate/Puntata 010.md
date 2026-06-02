@@ -11,6 +11,7 @@ numero: "010"
 data: 2020-05-15
 link: https://youtu.be/WBRF6dqH6wc
 durata: 09:21
+title: Puntata 010 - CAKE DESIGN FATTO MALE e TUTORIAL FLAUTO DOLCE + Oroscopo
 ---
 # CAKE DESIGN FATTO MALE e TUTORIAL FLAUTO DOLCE + Oroscopo
 

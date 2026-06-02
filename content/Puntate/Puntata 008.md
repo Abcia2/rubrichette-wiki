@@ -8,6 +8,7 @@ numero: "008"
 data: 2020-05-01
 link: https://youtu.be/eil1uzuFWq4
 durata: 06:58
+title: "Puntata 008 - MEME BRUTTI del BUONGIORNO sul CORONAVIRUS: Tutorial + Canzoncina"
 ---
 # MEME BRUTTI del BUONGIORNO sul CORONAVIRUS: Tutorial + Canzoncina
 

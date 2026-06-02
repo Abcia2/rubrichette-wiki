@@ -8,6 +8,7 @@ numero: "002"
 data: 2020-03-20
 link: https://youtu.be/v57QZMWC100
 durata: 05:18
+title: Puntata 002 - MERENDA facile e veloce di BARBIE
 ---
 # MERENDA facile e veloce di BARBIE
 

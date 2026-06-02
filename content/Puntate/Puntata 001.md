@@ -8,6 +8,7 @@ numero: "001"
 data: 2020-03-13
 link: https://youtu.be/zZFsHUcCd5k
 durata: 03:58
+title: Puntata 001 - BARZELLETTE sul Coronavirus di LADY GAGA e ORIETTA BERTI
 ---
 # BARZELLETTE sul Coronavirus di LADY GAGA e ORIETTA BERTI
 

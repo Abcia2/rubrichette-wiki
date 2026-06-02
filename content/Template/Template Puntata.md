@@ -5,6 +5,7 @@ numero: "001"
 data: YYYY-MM-DD
 link: https://youtu.be/XXXXXXXXX
 durata: 00:00
+title: Puntata 000 -
 ---
 # Titolo Puntata
 

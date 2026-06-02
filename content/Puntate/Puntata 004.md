@@ -9,6 +9,7 @@ numero: "004"
 data: 2020-04-03
 link: https://youtu.be/5syX2o2ZciU
 durata: 05:19
+title: Puntata 004 - LAVORETTI BRUTTI e storia di DONATELLA
 ---
 # LAVORETTI BRUTTI e storia di DONATELLA
 
