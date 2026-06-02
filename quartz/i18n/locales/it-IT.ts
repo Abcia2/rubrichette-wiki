@@ -77,13 +77,13 @@ export default {
         count === 1 ? "1 articolo in questa sezione." : `${count} articoli in questa sezione.`,
     },
     tagContent: {
-      tag: "Etichetta",
-      tagIndex: "Indice etichette",
+      tag: "Tag",
+      tagIndex: "Indice tag",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 articolo con questa etichetta." : `${count} articoli con questa etichetta.`,
-      showingFirst: ({ count }) => (count === 1 ? "Prima etichetta." : `Prime ${count} etichette.`),
+        count === 1 ? "1 articolo con questo tag." : `${count} articoli con questo tag.`,
+      showingFirst: ({ count }) => (count === 1 ? "Prima tag." : `Primi ${count} tag.`),
       totalTags: ({ count }) =>
-        count === 1 ? "Trovata 1 etichetta in totale." : `Trovate ${count} etichette totali.`,
+        count === 1 ? "Trovato 1 tag in totale." : `Trovati ${count} tag totali.`,
     },
   },
 } as const satisfies Translation
