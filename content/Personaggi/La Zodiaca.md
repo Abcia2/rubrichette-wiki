@@ -19,6 +19,7 @@ tags:
 Entità astrologica e guida spirituale dello show Rubrichette.
 
 La Zodiaca è l'imprevedibile voce delle stelle. A differenza degli astrologi tradizionali, le sue previsioni non riguardano l'amore o il lavoro, ma si concentrano su consigli pratici di vita domestica, scadenze alimentari e regimi dietetici. 
+
 Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla quotidianità
 
 ---

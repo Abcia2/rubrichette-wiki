@@ -15,8 +15,10 @@ tags:
 
 ---
 ## Descrizione
-Donatella è una **lepre**. Protagonista del racconto [[La storia di Donatella]]
+Donatella è una **lepre**. Protagonista del racconto [[La storia di Donatella]].
+
 Viene introdotta come una "**lepre shabby chic**" che vive su una mensola in una casa interamente arredata in tale stile dalla sua padrona, [[Mary Angel]].
+
 Donatella **odia profondamente lo stile shabby chic** e sogna di diventare una "**lepre moderna**". Il suo malessere è tale che dichiara di voler "darsi fuoco" pur di cambiare vita.
 ##### La trasformazione
 Sotto consiglio di [[Brittany]], si reca dalla [[Fata Fabrizia]], una specializzanda in chirurgia plastica, che accetta di trasformarla in lepre moderna al prezzo dell'invecchiamento immediato di 10 anni della sua padrona.

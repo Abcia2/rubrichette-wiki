@@ -5,6 +5,7 @@ _Una storia con immagini stock gratuite_
 ---
 ## Sinossi
 La vicenda segue le peripezie di [[Donatella]], una lepre costretta a vivere in un ambiente totalmente dominato dallo stile **shabby chic** a causa della sua padrona, [[Mary Angel]]. [[Donatella]] prova un odio profondo per questa estetica (che coinvolge persino il telefono di casa) e desidera ardentemente diventare una **"lepre moderna"**.
+
 Su suggerimento dell'uccellino gay [[Brittany]], [[Donatella]] si reca nel bosco per incontrare la [[Fata Fabrizia]], una specializzanda in chirurgia plastica. La fata accetta di trasformarla, ma a un prezzo irreversibile: una persona a lei vicina dovrà invecchiare istantaneamente di 10 anni. [[Donatella]] accetta il sacrificio della sua padrona e, dopo aver superato la prova finale bevendo una disgustosa **"pozione di arance shabby chic"**, ottiene il suo nuovo aspetto moderno. Tuttavia, al suo ritorno a casa, la lepre trova il **"cadavere freddo"** di [[Mary Angel]].
 ## Personaggi
 - [[Donatella]]: Una lepre shabby chic che vive su una mensola. Rappresenta il desiderio di ribellione contro le mode estetiche imposte.

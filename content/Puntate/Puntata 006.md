@@ -22,8 +22,11 @@ durata: 06:19
 ---
 ## Descrizione
 > Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> 
 > L’unico show che non viene criticato dai poteri forti perché non sanno che esiste. 
+> 
 > Senti il bisogno di capire l’arte contemporanea ? Vuoi entrare a far parte della storia dell'arte contemporanea ? Lanci il reggiseno sul palco ai concerti di Al Bano? Questo è il video che fa per te! 
+> 
 > Inoltre se le tue amicizie considerano l’ arte moderna stupida o l’ arte moderna difficile manda loro questo video. Qui parliamo di arte contemporanea, ma loro sono ignoranti e non capiranno. Tra fotoromanzi del settimanale “Grand Hotel” e gattini questo video ti migliorerà la giornata del 12% !
 
 ---
@@ -50,17 +53,20 @@ Il conduttore introduce il segmento spiegando che, in un momento così difficile
 #### Riassunto del contenuto
 ##### 1. Ode al tagliaerba del mattino
 _Onde sonore su vicinato_
+
 Uscire sul balcone ed emanare un **urlo catartico**: *"Io non vi amo*
 
 ![[Assets/screenshot/ep006/ep006_2.jpg]]
 ##### 2. Ho una zia che sta a Forlì
 _Strutto su calcestruzzo_
+
 Fissare al muro il vero "nutrimento dell'anima": una piadina.
 
 ![[Assets/screenshot/ep006/ep006_3.jpg]]
 _Si riconoscono dalla camicia in flanella, le mani di [[Clarissa]]_
 ##### 3. Per Pippo
 _Sostanze chimiche su peluria_
+
 Disegnare il volto del comico **Pippo Franco** utilizzando la **crema depilatoria**.
 
 ![[Assets/screenshot/ep006/ep006_4.jpg]]

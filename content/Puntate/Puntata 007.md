@@ -22,8 +22,12 @@ durata: 07:42
 ---
 ## Descrizione
 > Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> 
 > L’unico show in cui la mamma di Bambi non muore. 
-> Cerchi assiduamente nell’inter-web: “test che principessa Disney sei”? Ti manca la cassœula della nonna? Per dormire ascolti solamente video rilassanti ASMR? Questo è il video che fa per te! Condividilo con amici e parenti per non essere invitat* alla reunion di famiglia after quarantena!
+> 
+> Cerchi assiduamente nell’inter-web: “test che principessa Disney sei”? Ti manca la cassœula della nonna? Per dormire ascolti solamente video rilassanti ASMR? Questo è il video che fa per te!
+> 
+> Condividilo con amici e parenti per non essere invitat* alla reunion di famiglia after quarantena!
 
 ---
 ## Benvenuti a Rubrichette…
@@ -59,14 +63,16 @@ Si tratta di un segmento che parodia i video di **ASMR**, dove il conduttore cer
 Edoardo spiega che restare in contatto con se stessi durante l'isolamento può essere difficile e **stressante**, quindi lo show propone questa rubrica come una "soluzione" per rilassarsi.
 #### Riassunto del contenuto
 Il conduttore apre e mangia una caramellina.
+
 Poi si dedica all'umboxing di una sorpresina Esselunga in cui trova una piccola statuina che rffigura Antonella Elia Umbridge.
+
 Successivamente sgranocchia una [[Gallettozza]] _(No ADV)_.
+
 Inizia poi a sussurrare in stile ASMR la ricetta della Cassœula, elencando ingredienti crudi come costine, cotenna, piedino e 350 grammi di orecchio di suino.
+
 La narrazione degenera in un racconto surreale che mescola i ricordi di una nonna che uccideva i conigli con il coltello e una finta cena passata in carcere a causa di un incidente con l'auto aziendale non assicurata.
 
 ![[Assets/screenshot/ep007/ep007_1.jpg]]
-#### Curiosità, personaggi e ospiti speciali
-[Dettagli particolari. Rimuovi questa sezione se non ce ne sono.]
 
 ---
 ### 3. Indovinello Bello

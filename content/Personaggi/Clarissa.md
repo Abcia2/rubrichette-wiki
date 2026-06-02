@@ -16,6 +16,7 @@ tags:
 ---
 ## Descrizione
 Clarissa è la modella mani dello show.
+
 La sua presenza è poliedrica. Il suo lavoro consiste nel fornire le proprie mani per svolgere lavori pratici, fare unboxing e per mostrare oggettistica varia agli spettatori
 
 ---

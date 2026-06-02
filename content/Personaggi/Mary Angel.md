@@ -15,7 +15,8 @@ tags:
 
 ---
 ## Descrizione
-Mary Angel è la padrona umana di [[Donatella]] e antagonista involontaria della sua brama di modernità nella fiaba [[La storia di Donatella]]
+Mary Angel è la padrona umana di [[Donatella]] e antagonista involontaria della sua brama di modernità nella fiaba [[La storia di Donatella]].
+
 È un'esteta dello **stile shabby chic** estremo. Ha arredato in questo modo ogni angolo della sua casa, incluse le camere, le porte e persino il telefono.
 ##### Abitudini:
 Trascorre il tempo guardando le repliche di _Paint Your Life_ e scattandosi **foto sexy** tra i fiori del giardino.

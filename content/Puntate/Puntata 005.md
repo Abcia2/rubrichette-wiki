@@ -22,7 +22,9 @@ durata: 05:12
 ---
 ## Descrizione
 > Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> 
 > L’unico show che esce durante la Pasqua, ma non richiede digiuno. 
+> 
 > In cerca di emozioni forti durante la quarantena? Un orecchino fatto in casa è la risposta giusta! Rubrichette è lieta di spiegarti come fare con il tutorial meno preciso della storia. 
 > Per festeggiare il nostro mesiversario e i primi 100 iscritti abbiamo scomodato la coppia gay meno famosa d'Italia.
 
@@ -59,7 +61,7 @@ In questa puntata fa la sua prima apparizione il regista Alberto Sacco
 
 ---
 ### 2. Note celebrative
-:La puntata festeggia i primi **100 iscritti** su YouTube e il primo **mesiversario** dello show con un video speciale preparato dalla produzione [[Of My Home Productions]]
+La puntata festeggia i primi **100 iscritti** su YouTube e il primo **mesiversario** dello show con un video speciale preparato dalla produzione [[Of My Home Productions]]
 
 ![[speciale_100_iscritti.mp4]]
 

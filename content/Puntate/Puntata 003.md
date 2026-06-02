@@ -22,7 +22,9 @@ durata: 04:59
 ---
 ## Descrizione
 > Benvenut* alla nuova puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨! 
+> 
 > L’unico show ideato per essere visto in fila al supermercato! 
+> 
 > Hai chiamato i tuoi cari? Richiamali! In questo video puoi scoprire come rendere la telefonata più peperina (sorry mamma, sorry papà per lo scherzo telefonico)! 
 > In chiusura il quiz a premi che ha fatto innamorare tutta l’Italia! L’unico quiz in cui il premio finale è l’iscrizione a questo canale.
 
@@ -31,7 +33,7 @@ durata: 04:59
 > *"L'unico show senza interruzioni pubblicitarie e senza filetti bianchi delle arance"*
 
 > _Finalmente è arrivata la banda larga in provincia di Rovigo? No! La primavera.
-La stagione degli amori che sbocciano al parco, in palestra, sul luogo di lavoro... o no?_
+> La stagione degli amori che sbocciano al parco, in palestra, sul luogo di lavoro... o no?_
 
 ---
 ## Sigla

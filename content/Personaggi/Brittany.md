@@ -16,6 +16,7 @@ tags:
 ---
 ## Descrizione
 Brittany è un uccellino gay che prende il ruolo di mentore e guida spirituale della protagonista [[Donatella]] nella fiaba [[La storia di Donatella]]
+
 Brittany appare a Donatella in un momento di profonda crisi esistenziale, mentre lei osserva con disprezzo la sua padrona [[Mary Angel]] dal ramo di un albero. Notando la tristezza della lepre, intrappolata in un'estetica shabby chic che non le appartiene, Brittany le suggerisce la soluzione magica: rivolgersi alla [[Fata Fabrizia]] per ottenere la trasformazione desiderata.
 
 #### Saluto iconico:

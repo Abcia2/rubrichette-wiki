@@ -23,7 +23,9 @@ durata: 05:18
 
 ## Descrizione
 > Benvenut* alla seconda puntata di [#Rubrichette](https://www.youtube.com/hashtag/rubrichette)✨!
+> 
 > Lo show inventato da Maria de Filippi, ma che poi si è pentita! 
+> 
 > Nella puntata di oggi parleremo di merende facili e veloci, grandi classici del cinema e di come le stelle sembrino sempre remarvi contro. Per riequilibrare li karma provate a pestare una cacca.
 
 ---
