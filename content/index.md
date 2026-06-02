@@ -40,6 +40,6 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - **Puntate documentate:** 8
 - **Personaggi:** 7
 - **Sponsor e Pubblicità**: 1
-- Tutorial: 1
+- Tutorial: 2
 - Fiabe, Canzoni e Racconti: 2
 - Ricette: 0

@@ -97,10 +97,12 @@ Il conduttore introduce il segmento affermando che, dopo aver analizzato i meme 
 #### Riassunto del contenuto
 - **Strumenti:** Utilizzo di **Canva** con formato specifico per Facebook.
 - **Composizione visiva:** Come sfondo vengono inserite la lepre **[[Donatella]]** e la **[[Fata Fabrizia]]**.
-- **Testo e Font:** Viene scelta la frase _"buongiorno dal virus più buono che si possa diffondere: il caffè"_ utilizzando il font **"# Adigiana Toybox"** in colore giallo.
+- **Testo e Font:** Viene scelta la frase _"buongiorno dal virus più buono che si possa diffondere: il caffè"_ utilizzando il font **"Adigiana Toybox"** in colore giallo.
 - **Effetto Speciale:** Il cosiddetto **"Effetto Tumblr"**, ottenuto duplicando il testo e sovrapponendolo a caso.
 - **Elementi grafici:** Aggiunta di cuori, gattini, stelle e una **moka classica** posizionata tra numerose rose (sei boccioli più uno regalato alla fata).
 - **Chiusura:** Il meme viene firmato con il watermark _"I dolci pensieri di Fata Fabrizia"_.
+
+Il tutorial completo e dettagliato è disponibile a [[Tutorialino Memino Bruttino]]
 #### Curiosità, personaggi e interazione
 - **Curiosità tecniche:** Viene scartata la "moka degli alpini" perché non era correttamente scontornata.
 - **Personaggi:** Vengono inserite nella composizione [[Donatella]], [[Fata Fabrizia]] e [[Mary Angel]]

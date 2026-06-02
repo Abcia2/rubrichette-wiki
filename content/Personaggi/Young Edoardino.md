@@ -25,9 +25,9 @@ Utilizza una retorica che mescola promesse di bellezza eterna e "maledizioni" fi
 ## Discografia
 A seguire i singoli e gli album di Young Edoardino:
 
-| Titolo         | Data di uscita | Dettagli e Testo |
-| -------------- | -------------- | ---------------- |
-| OVUNQUE TU SIA | 01/05/2020     |                  |
+| Titolo         | Data di uscita | Dettagli e Testo   |
+| -------------- | -------------- | ------------------ |
+| OVUNQUE TU SIA | 01/05/2020     | [[OVUNQUE TU SIA]] |
 
 ---
 ## Apparizioni
