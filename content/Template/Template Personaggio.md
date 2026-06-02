@@ -9,8 +9,8 @@ tags:
 |                        |                              |
 | ---------------------- | ---------------------------- |
 | **Interpretato da**    | Edoardo / Alberto / Entrambi |
-| **Prima apparizione**  | [[Puntata 001 - Titolo]]     |
-| **Ultima apparizione** | [[Puntata 001 - Titolo]]     |
+| **Prima apparizione**  | [[Puntata 001]]              |
+| **Ultima apparizione** | [[Puntata 001]]              |
 | **Numero apparizioni** | 1                            |
 
 ---
@@ -20,9 +20,9 @@ tags:
 ---
 ## Apparizioni
 
-| Puntata                  | Data       | Contesto                         |
-| ------------------------ | ---------- | -------------------------------- |
-| [[Puntata 001 - Titolo]] | GG/MM/AAAA | [Breve descrizione del contesto] |
+| Puntata         | Data       | Contesto                         |
+| --------------- | ---------- | -------------------------------- |
+| [[Puntata 001]] | GG/MM/AAAA | [Breve descrizione del contesto] |
 
 ---
 ## Note e curiosità

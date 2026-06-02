@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - scherzo-telefonico
+  - autocertificazione
+  - quiz
 numero: "003"
 data: 2020-03-27
 link: https://youtu.be/vRwSS0mC6ZI

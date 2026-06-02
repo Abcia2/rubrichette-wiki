@@ -1,6 +1,8 @@
 ---
 tags:
   - canzone
+  - youtube
+  - musica
 ---
 ![[ovunque_tu_sia.jpg]]
 

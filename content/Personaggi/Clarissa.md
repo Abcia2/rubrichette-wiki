@@ -1,6 +1,9 @@
 ---
 tags:
   - personaggio
+  - modella-mani
+  - varesotto
+  - flanella
 ---
 # Clarissa - La modella mani più gettonata del varesotto
 

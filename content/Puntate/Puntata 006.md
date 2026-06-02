@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - arte-contemporanea
+  - rassegna-stampa
+  - fotoromanzi
 numero: "006"
 data: 2020-04-17
 link: https://youtu.be/lEunNxveCt8

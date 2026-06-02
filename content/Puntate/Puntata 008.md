@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - mèmè
+  - canva
+  - musica
 numero: "008"
 data: 2020-05-01
 link: https://youtu.be/eil1uzuFWq4

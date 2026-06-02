@@ -1,6 +1,8 @@
 ---
 tags:
   - personaggio
+  - chirurgia-plastica
+  - magia
 ---
 # Fata Fabrizia - Specializzanda in chirurgia plastica
 

@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - videogiochi
+  - oroscopo
+  - striscia-la-notizia
 numero: "009"
 data: 2020-05-08
 link: https://youtu.be/g2lHsUmJ990

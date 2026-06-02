@@ -1,8 +1,10 @@
 ---
 tags:
   - personaggio
+  - uccellino
+  - mentore
 ---
-# L'uccellino gay Brittany
+# Brittany - L'uccellino gay
 
 ![[brittany.jpg]]
 

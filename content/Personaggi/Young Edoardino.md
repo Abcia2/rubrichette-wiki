@@ -1,6 +1,7 @@
 ---
 tags:
   - personaggio
+  - rapper
 ---
 # Young Edoardino - Rapper disinteressato
 

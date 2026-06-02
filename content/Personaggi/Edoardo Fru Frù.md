@@ -1,6 +1,9 @@
 ---
 tags:
   - personaggio
+  - inviato-speciale
+  - giornalismo
+  - striscia-la-notizia
 ---
 # Edoardo Fru Frù - Inviato di Striscia La Notizia
 

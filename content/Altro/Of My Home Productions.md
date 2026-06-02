@@ -1,6 +1,7 @@
 ---
 tags:
   - altro
+  - dietro-le-quinte
 ---
 ![[Of_My_Home_Productions_Logo.png]]
 **Of My Home Productions** è la casa di produzione indipendente responsabile della creazione e della distribuzione dello show _Rubrichette_. Fondata e gestita da `████████`, la produzione si distingue per un approccio "grassroots" e satirico all'intrattenimento digitale.

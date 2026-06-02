@@ -1,6 +1,8 @@
 ---
 tags:
-  - pubblicita
+  - pubblicità
+  - galletta-di-riso
+  - truciolato
 tipo: fittizia
 ---
 # Gallettozza

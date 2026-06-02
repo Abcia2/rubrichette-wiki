@@ -1,8 +1,9 @@
 ---
 tags:
   - personaggio
+  - oroscopo
 ---
-# Zodiaca
+# Zodiaca - Principale rivale di Paolo Volpe
 
 ![](../Assets/personaggi/zodiaca.jpg)
 

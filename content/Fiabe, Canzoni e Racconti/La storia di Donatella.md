@@ -1,6 +1,8 @@
 ---
 tags:
   - racconto
+  - immagini-stock
+  - letteratura
 ---
 _Una storia con immagini stock gratuite_
 

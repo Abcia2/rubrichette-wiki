@@ -1,3 +1,10 @@
+---
+tags:
+  - tutorial
+  - mèmè
+  - whatsapp
+  - boomer
+---
 # Realizzare un mèmè brutto del buongiorno
 Una guida tecnica per realizzare un "meme brutto del buongiorno" seguendo i passaggi della rubrica [[Puntata 008#2. Tutorialino Memino Bruttino]]:
 

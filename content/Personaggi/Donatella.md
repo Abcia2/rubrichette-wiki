@@ -1,8 +1,10 @@
 ---
 tags:
   - personaggio
+  - lepre
+  - trasformazione
 ---
-# Donatella
+# Donatella - La lepre shabby chic
 
 ![](../Assets/personaggi/donatella_1.jpg)
 

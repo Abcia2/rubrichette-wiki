@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - test-personalità
+  - asmr
+  - quiz
 numero: "007"
 data: 2020-04-24
 link: https://youtu.be/H0Gq16zit5s

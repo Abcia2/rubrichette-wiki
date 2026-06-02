@@ -1,3 +1,11 @@
+---
+tags:
+  - tutorial
+  - arredamento
+  - fai-da-te
+  - shabby-chic
+  - riciclo-creativo
+---
 # Rendere Shabby Chic Oggetti Quotidiani
 Una guida tecnica e dettagliata per replicare i tutorial di design presentati nella rubrica [[Puntata 004#2. Momentino Lavoretti]] dello show, finalizzati a trasformare oggetti quotidiani in elementi d'arredo in stile **shabby chic**.
 

@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - piercing
+  - pasqua
+  - oroscopo
 numero: "004"
 data: 2020-04-10
 link: https://youtu.be/t6xxUG-Z1eo

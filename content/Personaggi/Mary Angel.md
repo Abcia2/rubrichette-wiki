@@ -1,8 +1,9 @@
 ---
 tags:
   - personaggio
+  - shabby-chic
 ---
-# Mary Angel
+# Mary Angel - Esteta dello stile shabby chic
 
 ![[mary angel.jpg]]
 

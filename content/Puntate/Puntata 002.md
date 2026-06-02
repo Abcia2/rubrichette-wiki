@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - merenda
+  - recensione-film
+  - oroscopo
 numero: "002"
 data: 2020-03-20
 link: https://youtu.be/v57QZMWC100
