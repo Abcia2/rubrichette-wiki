@@ -11,8 +11,8 @@ tags:
 | ---------------------- | --------------- |
 | **Interpretato da**    | Edoardo         |
 | **Prima apparizione**  | [[Puntata 001]] |
-| **Ultima apparizione** | [[Puntata 005]] |
-| **Numero apparizioni** | 3               |
+| **Ultima apparizione** | [[Puntata 010]] |
+| **Numero apparizioni** | 4               |
 
 ---
 
@@ -32,6 +32,7 @@ Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla 
 | [[Puntata 001]] | 13/03/2020 | Protagonista della rubrica di chiusura [[Puntata 001#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
 | [[Puntata 002]] | 20/03/2020 | Protagonista della rubrica di chiusura [[Puntata 002#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
 | [[Puntata 005]] | 10/04/2020 | Protagonista della rubrica di chiusura [[Puntata 005#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
+| [[Puntata 010]] | 15/05/2020 | Protagonista della rubrica di chiusura [[Puntata 010#3. La Zodiaca (Horror-Oscopo)]], dove rivela il destino dei segni zodiacali prima dei saluti finali. |
 
 ---
 ## Previsioni
@@ -47,6 +48,10 @@ Si distingue per un tono diretto, a tratti cinico e fortemente incentrato sulla 
 - **Toro:** Viene consigliato un picnic di Pasquetta all'aperto, avvertendo però del rischio di una multa di **746 euro**.
 - **Bilancia:** Esortati a mangiare tutta la cioccolata dell'uovo, ma con l'avvertimento che le sorprese **non sono commestibili**.
 - **Gemelli:** Messaggio diretto a non ascoltare chi suggerisce di farsi un orecchino (chiaro riferimento al tutorial della puntata), perché **"fa molto male"**.
+##### [[Puntata 010]]
+- **Ariete:** La previsione avverte dell'incontro con un **prete** che chiederà monete; non avendone, il consiglio è di correre via.
+- **Scorpione:** Prevede l'incontro con un **adone** con molta eccitazione iniziale, che si rivelerà però essere solo un "buffone".
+- **Cancro:** Definito "tutto bene", il conduttore cerca rime per questo segno, proponendo l'associazione con **Pippo Franco**.
 
 ---
 ## Note e curiosità

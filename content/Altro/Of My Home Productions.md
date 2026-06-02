@@ -23,3 +23,9 @@ Copia del contratto di lavoro tra la produzione e Edoardo Zaggia
 ---
 ### Stato Attuale
 La produzione opera attualmente in regime di **"spending review"**, rinnovando i contratti della conduzione episodio per episodio.
+
+---
+### Of My Home Editori
+La Of My Home Productions è madre del gruppo editoriale _"Of My Home Editori"_.
+
+Noto soprattutto per il celebre libro di cucina [[1001 modi di cucinare la Simmenthal]]

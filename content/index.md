@@ -33,6 +33,7 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - [[Puntata 007]]
 - [[Puntata 008]]
 - [[Puntata 009]]
+- [[Puntata 010]]
 
 ---
 
@@ -43,4 +44,4 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 - **Sponsor e Pubblicità**: 1
 - Tutorial: 2
 - Fiabe, Canzoni e Racconti: 2
-- Ricette: 0
+- Ricette: 1
