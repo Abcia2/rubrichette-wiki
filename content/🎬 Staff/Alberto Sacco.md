@@ -16,7 +16,7 @@ Assieme a [[Edoardo Zaggia]], Alberto forma la coppia di autori che ha creato �
 Di natura riservato, il ragazzo misterioso dai capelli corvini e gli occhi di zaffiri, nasconde la sua storia principalmente nel podcast Katia (purtroppo ancora esterno allo scope di questa wiki)
 
 ### Un bel CurriCuloum
-I traguardi più recenti sono condivisi con quelli del coinquilino [[Edoardo Zaggia#Un bel CurriCuloum]],.ù
+I traguardi più recenti sono condivisi con quelli del coinquilino Edoardo Zaggia: [[Edoardo Zaggia#Un bel CurriCuloum]],.
 
 #### Corti pre Rubrichette
 - Regia e Sceneggiatura del corto [L'Ultimo Ballo (2017), di Alberto Sacco](https://www.cinemaitaliano.info/lultimoballo)

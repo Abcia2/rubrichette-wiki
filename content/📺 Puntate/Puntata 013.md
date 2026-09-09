@@ -11,7 +11,8 @@ link: https://youtu.be/jVwxXg0Bjt8
 durata: 12:08
 title: "Puntata 013 - Mese del PRIDE: lavoretti QUEER, AMICHE speciali e MONOLOGAY"
 ---
-# # Mese del PRIDE: lavoretti QUEER, AMICHE speciali e MONOLOGAY
+# Mese del PRIDE: lavoretti QUEER, AMICHE speciali e MONOLOGAY
+🏳️‍🌈 Una puntata speciale per il mese del Pride #speciale-pride 
 
 ![copertina](../Assets/copertine/ep013.jpg)
 
@@ -101,24 +102,41 @@ Edoardo introduce il segmento subito dopo la telefonata con le amiche, spiegando
 ![[ep013_6.mp4]]
 #### Trascrizione
 L'altro giorno ho aperto TikTok e fra un balletto un canneto ho visto una cosa sconvolgente!
+
 C'era questo ragazzino di 18 anni al massimo e prima ancora che iniziasse a parlare mi si è attivato il gay radar. 
+
 Ho subito pensato: "Eccolo qua, una nuova leva pronto ad entrare nell'esercito delle gays!"
+
 Perché lo vedevo, mi ricordava me stesso alla sua età quando facevo finta mi piacesse giocare a calcio, avevo paura di mettermi le magliette rosa...
-Per spostare l'attenzione prendevo in giro il compagno di scuola più effeminato di me Ma ci pensate? Uno più effeminato di me?
+Per spostare l'attenzione prendevo in giro il compagno di scuola più effeminato di me. Ma ci pensate? Uno più effeminato di me?
+
 Ho visto questo ragazzino su TikTok e ho pensato: "Chissà com'è essere oggi un giovanissimo gay, che sta scoprendo se stesso, magari no ha ancora detto ad amici e famiglia che gli piace il cacciavite" E lui nei TikTok va da sua madre e le dice: "Mamma che schifo, ho appena scoperto di essere nato da una coppia etero. Per fortuna non mi hanno cresciuto etero!"
+
 Raga, applausi!
+
 Complimenti per la battuta ma poi che sogno poter fin da subito far sentire in colpa nostra madre!
+
 No, sto scherzando!
+
 È un sogno vedere che una parte delle nuove generazioni sta crescendo con lo spirito giusto Lo spirito gay!
+
 No scherzo ancora.
+
 Intendo potere e voler parlare apertamente di come si è!
+
 Io alla sua età non avrei avuto il coraggio. Al massimo guardavo le Olimpiadi aspettando i tuffi con un cuscino sulle gambe!
+
 C'è ancora tantissima strada da fare perché l'omofobia è come la muffa.
+
 Se continui a farti la doccia con la finestra chiusa si espande e ti ricopre il soffitto L'umanità fa la doccia con la finestra chiusa da sempre ma nel Giugno del '69, a Stonewall, quando qualcuno ha aperto quella finestra con un mattone abbiamo capito che è possibile farsi la doccia in un bagno senza muffa.
+
 Ecco, è vero che la muffa si fa fatica a togliere, ma un po' alla volta abbiamo iniziato a seguire i consigli della nonna, a comprare gli spray alla candeggina, informarci sulle vernici antimuffa.
 Anno dopo anno e Pride dopo Pride la muffa sta venendo via. Il problema non è ancora risolto, ma di sicuro qualcosa sta cambiando... Vedi il ragazzino su TikTok!
+
 Insomma: il Pride è uno dei migliori antimuffa in circolazione E di sicuro quest'anno esserne privati non aiuterà il nostro povero bagno.
+
 Ma c'è una cosa che voglio ricordare alla muffa: passata di candeggina dopo passata di candeggina Il muro sta diventando sempre più bianco. 
+
 Anzi: arcobaleno!
 
 ---
