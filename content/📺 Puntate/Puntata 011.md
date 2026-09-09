@@ -23,7 +23,7 @@ title: Puntata 011 - Il SEGRETO per diventare PIPPO FRANCO e notizie molto ETERO
 | **Link**           | [Guarda su YouTube](https://youtu.be/7YWSD-4TY8c) |
 | **Durata**         | 10:19                                             |
 | Puntata Precedente | [[Puntata 010]]                                   |
-| Puntata Successiva | [[Puntata 012]]]                                  |
+| Puntata Successiva | [[Puntata 012]]                                   |
 
 ---
 ## Descrizione
