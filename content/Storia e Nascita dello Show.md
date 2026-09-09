@@ -26,9 +26,10 @@ Rubrichette si distingue per una struttura ben precisa, caratterizzata da:
 * **Scrittura e Improvvisazione**: Un format fortemente scritto nella struttura, ma aperto a momenti di genuina improvvisazione.
 * **Elementi Visivi e Stilistici**: Satira sociale, rapidi cambi d'abito ed estetica casalinga.
 * **Temi Ricorrenti e Cult**:
-  * **Le Suore**: Un'ossessione comica derivata dalle esperienze scolastiche di Edoardo in un istituto gestito da suore.
-  * **I Soprammobili Thun**: Al centro di una celebre puntata e fenomeno comico dello show.
-  * **Nutrie e Sandali**: Argomenti di conversazione e satira quotidiana.
+	* Riferimenti televisivi e alla cultura pop italiana, specialmente grazie adn Albert
+	* **Le Suore**: Un'ossessione comica derivata dalle esperienze scolastiche di Edoardo in un istituto gestito da suore.
+	* **I Soprammobili Thun**: Al centro di una celebre puntata e fenomeno comico dello show.
+	* **Nutrie e Sandali**: Argomenti di conversazione e satira quotidiana.
 
 ---
 

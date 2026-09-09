@@ -55,20 +55,20 @@ Un tutorial di bricolage fai-da-te, ambientato nel "Laboratôire Roubriquoïse",
 #### Collegamento
 La rubrica si apre celebrando l'inizio del **mese del Pride**. Poiché le tradizionali parate cittadine non si sono potute svolgere a causa della pandemia ("il peggiore degli omofobi"), lo show propone dei consigli pratici per portare lo spirito del Pride direttamente a casa.
 #### Riassunto del contenuto
-###### L'Amuqueera
+##### L'Amuqueera
 L'Amuchina viene resa meno noiosa con l'aggiunta di una confezione di **glitter** al suo interno (anche se il disinfettante ne spegne la brillantezza facendola sembrare "forfora colorata").
 
 ![[Assets/screenshot/ep013/ep013_1.jpg]]
-###### Ciabatta e nails)
+##### Ciabatta e nails
 Applicazione di unghie finte adesive "da trucida" sulle dita dei piedi (o sulla ciabatta) per abbinarle alle ciabatte e far sentire il proprio arrivo sul parquet.
 
 ![[Assets/screenshot/ep013/ep013_2.jpg]]
 
-###### Banana incisa
+##### Banana incisa
 La buccia della banana viene incisa per raffigurare il patriarcato utilizzando le unghie finte appena applicate per poi essere mangiata con ferocia
 
 ![[Assets/screenshot/ep013/ep013_3.jpg]]
-###### Martellôh e Cacciavite
+##### Martello e Cacciavite
 Definiti come "baluardi dell'eterosessualità", vengono resi gay incollando sulla testa del martello (con la colla a caldo) il busto e il vestitino di una bambola principessa, creando "Martellita".
 
 ![[ep013_4.jpg]]
