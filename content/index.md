@@ -3,7 +3,7 @@ title: Home
 ---
 # 📺 Rubrichette Wiki
 
-Wiki non ufficiale di **Rubrichette**, lo show comico di varietà di [[Edoardo Zaggia]] e [[Alberto Sacco]].
+Wiki non ufficiale di **Rubrichette**, lo show online comico e di varietà ideato, prodotto, scritto, registrato, montato, pubblicato e pubblicizzato da [[Edoardo Zaggia]] e [[Alberto Sacco]].
 
 ![[banner.png]]
 
@@ -33,4 +33,4 @@ Wiki non ufficiale di **Rubrichette**, lo show comico di varietà di [[Edoardo Z
 - Tutorial: 2
 - Fiabe, Canzoni e Racconti: 2
 - Ricette: 1
-- Membri dello Staff: 2
+- Membri dello Staff: 4

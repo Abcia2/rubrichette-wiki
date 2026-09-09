@@ -9,6 +9,7 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #racconto
 - #ricetta
 - #tutorial
+- #backstage 
 ### Argomenti e temi
 - #cucina
 - #dessert

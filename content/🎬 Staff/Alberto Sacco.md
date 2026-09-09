@@ -1,4 +1,7 @@
-
+---
+tags:
+  - "#backstage"
+---
 Regista e sceneggiatore è l'uomo dietro la camera del programma.
 
 ### Alberto
@@ -21,3 +24,8 @@ I traguardi più recenti sono condivisi con quelli del coinquilino [[Edoardo Zag
 - Progetto [Signorino Buonasera 💁🏻‍♂️📺](https://www.instagram.com/channel/AbawtTsE7ir3xiH4/): Un canale Instagram dove espande la sua passione per il cinema pubblicando recensioni di film e serie tv
 
 I recenti rumor suggeriscono che stia scrivendo il suo primo libro scritto a due sole mani, aspettiamo trepidanti futuri aggiornamenti.
+
+---
+Fonti:
+- https://www.cinemaitaliano.info/pers/087126/alberto-sacco.html
+- https://www.imdb.com/it/name/nm9535711/

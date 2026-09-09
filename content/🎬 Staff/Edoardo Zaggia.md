@@ -1,3 +1,7 @@
+---
+tags:
+  - "#backstage"
+---
 Simpaticissimo content creator, comico, conduttore, scrittore e tanto altro ancora. Sempre pronto a **strappare un sorriso** al suo pubblico. 
 
 ### Edoardo
@@ -5,7 +9,8 @@ Nome d'arte di Edoardo Zaggia, conosciuto anche come Edo, Edoardo è il condutto
 
 ![[edoardo.jpg]]
 
-Edoardo Zaggia ha 3̵̢̢̜̮̯̟͑̅̑3̴̛̭̳̩̱̥̳͔͖̻̱̳̥̫̜̬͈̘̉̊̈́̃͝͠ͅ anni ed è **originario di Padova, oggi vive a Milano** e fa il content creator, comico e conduttore. Insieme ad [[Alberto Sacco]] ha **creato lo show online nonché format iconico Rubrichette**, ovvero una **rubrica “fatta in casa”** in cui i due, con ironia e autoironia, parlano dei temi più disparati, tra **attualità e satira**, **spettacolo e politica, l’ossessione e la paura per le suore**, il tempo che passa, l’educazione sessuale, i diritti civili e la passione per gli anni 90.
+Edoardo Zaggia ha 3̵̢̢̜̮̯̟͑̅̑3̴̛̭̳̩̱̥̳͔͖̻̱̳̥̫̜̬͈̘̉̊̈́̃͝͠ͅ anni ed è **originario di Padova, oggi vive a Milano** e fa il content creator, comico e conduttore.
+Insieme ad [[Alberto Sacco]] ha **creato lo show online nonché format iconico Rubrichette**, ovvero una **rubrica “fatta in casa”** in cui i due, con ironia e autoironia, parlano dei temi più disparati, tra **attualità e satira**, **spettacolo e politica, l’ossessione e la paura per le suore**, il tempo che passa, l’educazione sessuale, i diritti civili e la passione per gli anni 90.
 
 ### Un bel CurriCuloum
 ##### **La conduzione di Most Ridicolous su Comedy Central Italia** 

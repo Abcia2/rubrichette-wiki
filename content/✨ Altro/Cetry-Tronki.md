@@ -1,3 +1,8 @@
+---
+tags:
+  - "#cucina"
+  - "#merenda"
+---
 ![[Assets/screenshot/ep002/ep002_2.jpg]]
 
 #### Cos'è?

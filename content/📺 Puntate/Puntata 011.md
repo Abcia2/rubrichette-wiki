@@ -43,7 +43,7 @@ title: Puntata 011 - Il SEGRETO per diventare PIPPO FRANCO e notizie molto ETERO
 ## Sigla
 
 ![[ep011.mp4]]
-La sigla della puntata 011 pone l'attenzione su un elemento finora trascurato: i quadri nello sfondo. Infatti per la prima volta nella storia del programma vengono sostituiti con due meravigliose stame [della Enri](https://www.enricazaggia.com/). Il cambio dei quadri diventa un appuntamento periodico che scandisce la stagionalità del programma.
+La sigla della puntata 011 pone l'attenzione su un elemento finora trascurato: i quadri nello sfondo. Infatti per la prima volta nella storia del programma vengono sostituiti con due meravigliose stame di [[Enrica Zaggia]]. Il cambio dei quadri diventa un appuntamento periodico che scandisce la stagionalità del programma.
 
 ---
 ## Rubriche
