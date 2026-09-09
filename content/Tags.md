@@ -11,6 +11,7 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #tutorial
 - #backstage 
 - #storia 
+- #speciale-pride
 ### Argomenti e temi
 - #cucina
 - #dessert
@@ -63,6 +64,8 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #dietro-le-quinte
 - #mèmè
 - #omofobia
+- #dialetti 
+- #lgbtq 
 ### Personaggi e VIP
 - #pippo-franco 
 - #lady-gaga 
@@ -71,3 +74,5 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #papa-francesco 
 - #mamma-laura
 - #papà-giorgio
+- #Sara
+- #Bettina

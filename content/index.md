@@ -31,7 +31,7 @@ Wiki non ufficiale di **Rubrichette**, lo show online comico e di varietà ideat
 
 ## Statistiche
 - **Puntate totali:** 153
-- **Puntate documentate:** 11
+- **Puntate documentate:** 13
 - **Personaggi:** 8
 - **Sponsor e Pubblicità**: 1
 - Tutorial: 2

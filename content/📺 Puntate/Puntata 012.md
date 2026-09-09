@@ -1,6 +1,9 @@
 ---
 tags:
   - puntata
+  - dialetti
+  - quiz
+  - pubblicità
 numero: "012"
 data: 2020-05-29
 link: https://youtu.be/q9IsBI_Ocbw

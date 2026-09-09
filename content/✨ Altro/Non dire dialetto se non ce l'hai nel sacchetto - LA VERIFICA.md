@@ -1,3 +1,8 @@
+---
+tags:
+  - dialetti
+  - quiz
+---
 ![[ep012_3.jpg]]
 
 Grazie le competenze livello c1 acquisite durante la rubrichetta [[Puntata 012#2. Non dire dialetto se non ce l'hai nel sacchetto]] della puntata 012, si può affrontare con coraggio la verifica finale in cui bisgona indovinare il dialetto a cui appartiene un dato proverbio. 
