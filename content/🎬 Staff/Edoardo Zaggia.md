@@ -38,4 +38,4 @@ Edoardo Zaggia è **amatissimo anche su TikTok** dove ha ben 414 mila follower
 Anche su YouTube Edoardo è **seguitissimo**, con oltre 58.400 iscritti e ben 15 milioni di visualizzazioni totali ai video. Tra i più popolari sulla piattaforma del tubo abbiamo: “La nonna mi insegna a fare s3sso” con oltre 120 mila views, “Un sogno di nome Thun” con oltre 108 mila views, “Tata Lucia, il sexy tato Martino e il bambino Edoardino” con oltre 88 mila views e **tanti altri video che sono stati visti da centinaia di persone**. E che a queste persone hanno **strappato più di un sorriso**. Perché è questa la mission di Edoardo: **far ridere. E ci riesce. Ogni giorno. Da anni**.
 
 ---
-Fonte: [Influenxer](https://www.influenxer.it/influencer/edoardo-zaggia-tutto-sul-creator-comico-e-conduttore/)
+*Fonte: [Influenxer](https://www.influenxer.it/influencer/edoardo-zaggia-tutto-sul-creator-comico-e-conduttore/)*

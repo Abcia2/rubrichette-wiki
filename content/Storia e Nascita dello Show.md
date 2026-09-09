@@ -1,4 +1,8 @@
-
+---
+tags:
+  - "#backstage"
+  - "#storia"
+---
 ## 📖 Panoramica
 
 **Rubrichette** è uno show comico di varietà autoprodotto su YouTube, composto da un totale di **153 puntate**. Ideato e condotto da **[[Edoardo Zaggia]]** e **[[Alberto Sacco]]**.

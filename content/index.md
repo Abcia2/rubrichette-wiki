@@ -5,6 +5,10 @@ title: Home
 
 Wiki non ufficiale di **Rubrichette**, lo show online comico e di varietà ideato, prodotto, scritto, registrato, montato, pubblicato e pubblicizzato da [[Edoardo Zaggia]] e [[Alberto Sacco]].
 
+#### Approfondisci la storia:
+- Storia dello show: [[Storia e Nascita dello Show]]
+- Nascita della Wiki: [[Gianluca#Perchè nasce questa wiki?]]
+
 ![[banner.png]]
 
 ---

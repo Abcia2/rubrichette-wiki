@@ -10,6 +10,7 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #ricetta
 - #tutorial
 - #backstage 
+- #storia 
 ### Argomenti e temi
 - #cucina
 - #dessert
