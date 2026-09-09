@@ -39,7 +39,7 @@ title: Puntata 002 - MERENDA facile e veloce di BARBIE
 
 ---
 ## Ringraziamenti iniziali
-Edoardo Zaggia apre lo show con alcuni ringraziamenti dal tono ironico e satirico:
+[[Edoardo Zaggia]] apre lo show con alcuni ringraziamenti dal tono ironico e satirico:
 #### Alla produzione
 Ringrazia la casa di produzione (la _[[Of My Home Productions]]_) che, nonostante il periodo di **"spending review"**, ha deciso di rinnovargli il contratto _([[Of My Home Productions#Contratto di lavoro]])_ per un ulteriore episodio.
 #### Ai network televisivi
@@ -106,7 +106,7 @@ Uno snack che unisce la bontà del cioccolato alla semplicità del cetriolo. Vie
 
 ![[Assets/screenshot/ep002/ep002_2.jpg]]
 
-Viene raccomandato di **non confonderlo** con il _Cetry-Tronki_ (un'imitazione del prodotto originale)
+Viene raccomandato di **non confonderlo** con il _Tronkiolo_ (un'imitazione del prodotto originale)
 
 ![[Assets/screenshot/ep002/ep002_3.jpg]]
 #### Curiosità e interazione

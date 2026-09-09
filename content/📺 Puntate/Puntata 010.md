@@ -41,7 +41,7 @@ title: Puntata 010 - CAKE DESIGN FATTO MALE e TUTORIAL FLAUTO DOLCE + Oroscopo
 > *"10 il numero perfetto... i dieci comandamenti, l'età di Lady Gaga quando aveva 10 anni, il numero dei sette nani se fossero saliti a bordo delle tre caravelle... Oh no?"*
 
 ### La decima puntata
-La **decima puntata** di _Rubrichette_ rappresenta un traguardo fondamentale per lo show, definito dal conduttore Edoardo Zaggia come il **"numero perfetto"**.
+La **decima puntata** di _Rubrichette_ rappresenta un traguardo fondamentale per lo show, definito dal conduttore [[Edoardo Zaggia]] come il **"numero perfetto"**.
 
 ![[Assets/screenshot/ep010/ep010_1.jpg]]
 ##### Significato del numero 10

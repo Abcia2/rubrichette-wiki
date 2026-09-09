@@ -4,6 +4,8 @@ tags:
   - scherzo-telefonico
   - autocertificazione
   - quiz
+  - "#mamma-laura"
+  - "#papà-giorgio"
 numero: "003"
 data: 2020-03-27
 link: https://youtu.be/vRwSS0mC6ZI
@@ -76,7 +78,7 @@ A seguire la lista delle parole per chi volesse provare ad indovinare la parola 
 
 ![[Assets/screenshot/ep003/ep003_1.jpg]]
 
-La parola protagonista della puntata è `cuticola`. Edoardo Zaggia ne illustra l'importanza e la versatilità attraverso una serie di freddure che spaziano dalla vita quotidiana alla cultura alta.
+La parola protagonista della puntata è `cuticola`. [[Edoardo Zaggia]] ne illustra l'importanza e la versatilità attraverso una serie di freddure che spaziano dalla vita quotidiana alla cultura alta.
 
 ![[Assets/screenshot/ep003/ep003_2.jpg]]
 #### Motivazione dietro a tutte le parole

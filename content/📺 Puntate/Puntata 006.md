@@ -4,6 +4,8 @@ tags:
   - arte-contemporanea
   - rassegna-stampa
   - fotoromanzi
+  - "#al-bano"
+  - "#papa-francesco"
 numero: "006"
 data: 2020-04-17
 link: https://youtu.be/lEunNxveCt8
@@ -112,7 +114,7 @@ Viene introdotta alla fine dello show, subito dopo la rassegna stampa di _Grand 
 ## Personaggi apparsi
 - [[Clarissa]]
 - Pippo Franco
-- Albano Carrisi
+- Al Bano Carrisi
 - Papa Francesco
 
 ---

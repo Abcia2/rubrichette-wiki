@@ -9,12 +9,12 @@ tags:
 
 ![[clarissa_1.jpg]]
 
-|                        |                 |
-| ---------------------- | --------------- |
-| **Interpretato da**    | Edoardo         |
-| **Prima apparizione**  | [[Puntata 004]] |
-| **Ultima apparizione** | [[Puntata 010]] |
-| **Numero apparizioni** | 3               |
+|                        |                    |
+| ---------------------- | ------------------ |
+| **Interpretato da**    | [[Edoardo Zaggia]] |
+| **Prima apparizione**  | [[Puntata 004]]    |
+| **Ultima apparizione** | [[Puntata 010]]    |
+| **Numero apparizioni** | 3                  |
 
 ---
 ## Descrizione
@@ -39,3 +39,4 @@ La sua presenza è poliedrica. Il suo lavoro consiste nel fornire le proprie man
 ## Note e curiosità
 - Come suggerito dal suo epiteto, Clarissa è originaria della zona del **Varesotto**
 - Clarissa predilige le camice in **flanella**, che sfoggia con fierezza anche in piena estate
+- Clarissa ha dei piedi particolari con delle unghie molto lunghe che le impediscono di correre e di indossare scarpe. Questo si scopre nella puntata [[Puntata 011#Unghie dei piedi extra lunghe]]

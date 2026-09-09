@@ -11,7 +11,7 @@ tipo: fittizia
 
 | **Tipo**               | Fittizia                                          |
 | ---------------------- | ------------------------------------------------- |
-| **Presentata da**      | Edoardo                                           |
+| **Presentata da**      | [[Edoardo Zaggia]]                                |
 | **Apparizioni**        | [[Puntata 002]], [[Puntata 007]], [[Puntata 010]] |
 | **Numero apparizioni** | 3                                                 |
 

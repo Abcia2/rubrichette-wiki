@@ -4,6 +4,8 @@ tags:
   - barzellette
   - omofobia
   - oroscopo
+  - "#lady-gaga"
+  - "#orietta-berti"
 numero: "001"
 data: 2020-03-13
 link: https://youtu.be/zZFsHUcCd5k
@@ -43,7 +45,7 @@ title: Puntata 001 - BARZELLETTE sul Coronavirus di LADY GAGA e ORIETTA BERTI
 Rispetto ai classici programmi televisivi come _Pomeriggio 5_ o _Verissimo_, **Rubrichette** si distingue per le seguenti caratteristiche:
 
 - **Produzione indipendente:** È il primo show autoprodotto direttamente dagli studi **"Of My Home"** (ovvero la casa del conduttore).
-- **Budget e contenuti:** Edoardo Zaggia lo definisce un programma **"povero di budget ma ricco di contenuti"**.
+- **Budget e contenuti:** [[Edoardo Zaggia]] lo definisce un programma **"povero di budget ma ricco di contenuti"**.
 - **Identità e target:** Lo show si presenta come **"totalmente gestito dalla lobby gay"**, dichiarando di non essere adatto ai bambini, a meno che non siano "bambini gay".
 - **Originalità:** Viene descritto come un format **"nuovo" e "diverso"** che punta a riscoprire i "vecchi piaceri del passato" attraverso un'estetica e un linguaggio ironico e satirico.
 
@@ -63,7 +65,7 @@ Rubrica dedicata all'interpretazione di **barzellette e freddure** selezionate d
 #### Collegamento
 La rubrica viene introdotta come un modo per riscoprire i vecchi piaceri del passato in un periodo in cui le persone passano molto tempo chiuse in casa.
 #### Riassunto del contenuto
-Edoardo Zaggia legge e interpreta barzellette recuperate online e dal sito (sponsor) barzellettetoste.it. Il contenuto spazia da freddure brevi (come quella su Adamo ed Eva o sullo sputo che "saliva" le scale) a tentativi di leggere storie più lunghe e situazionali, spesso interrotte perché ritenute troppo prolisse.
+[[Edoardo Zaggia]] legge e interpreta barzellette recuperate online e dal sito (sponsor) barzellettetoste.it. Il contenuto spazia da freddure brevi (come quella su Adamo ed Eva o sullo sputo che "saliva" le scale) a tentativi di leggere storie più lunghe e situazionali, spesso interrotte perché ritenute troppo prolisse.
 #### Curiosità, personaggi e ospiti speciali
 - **Ospiti**: Partecipano Orietta Berti (che ringrazia Fabio Fazio e si dichiara fan di Pippo Franco) e Lady Gaga.
 - **Personaggi** citati: Entrambe le ospiti elogiano Pippo Franco, definito da Lady Gaga come un "sex symbol internazionali".
@@ -73,7 +75,7 @@ Edoardo Zaggia legge e interpreta barzellette recuperate online e dal sito (spon
 
 ![[Assets/rubriche/ep001/ep001_2.jpg]]
 #### Collegamento
-Edoardo Zaggia introduce la rubrica come un modo per entrare nella mente degli omofobi, facendo un paragone ironico con le "mamme pancine" prima di rivelare il vero tema.
+[[Edoardo Zaggia]] introduce la rubrica come un modo per entrare nella mente degli omofobi, facendo un paragone ironico con le "mamme pancine" prima di rivelare il vero tema.
 #### Riassunto del contenuto
 In questa puntata viene commentata una notizia dal sito gay.it riguardante il politico Pillon. 
 Pillon accusa il governo di voler imporre un "diktat omosessualista" approfittando della distrazione del paese a causa del coronavirus. Zaggia risponde ironicamente suggerendo che a Pillon manchi l'aria per essere rimasto troppo chiuso in casa.

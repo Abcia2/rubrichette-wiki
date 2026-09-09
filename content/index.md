@@ -3,7 +3,7 @@ title: Home
 ---
 # 📺 Rubrichette Wiki
 
-Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.youtube.com/@EdoardoZaggia) e Alberto Sacco.
+Wiki non ufficiale di **Rubrichette**, lo show comico di varietà di [[Edoardo Zaggia]] e [[Alberto Sacco]].
 
 ![[banner.png]]
 
@@ -20,15 +20,17 @@ Wiki non ufficiale di **Rubrichette**, lo show di [Edoardo Zaggia](https://www.y
 | [[💡 Tutorial/]]                  | I tutorial e le guide per rendere la vostra vita migliore                     |
 | [[🍝 Ricette/]]                   | Le ricette delle prelibatezza cucinate nello show, degne di Benedetta Parodi  |
 | [[✨ Altro/]]                      | Altri elementi del mondo di Rubrichette                                       |
+| [[🎬 Staff/]]                     | Tutte le info su chi manda avanti la baracca                                  |
 | 🟦 [[tags/]]                      | Lista dei tag utili per la navigazione                                        |
 
 ---
 
 ## Statistiche
 - **Puntate totali:** 153
-- **Puntate documentate:** 10
+- **Puntate documentate:** 11
 - **Personaggi:** 8
 - **Sponsor e Pubblicità**: 1
 - Tutorial: 2
 - Fiabe, Canzoni e Racconti: 2
 - Ricette: 1
+- Membri dello Staff: 2

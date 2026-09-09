@@ -16,7 +16,7 @@ Nonostante la natura domestica, la produzione vanta una struttura organizzativa 
 - **La Redazione:** Un team (spesso citato ironicamente) incaricato di selezionare accuratamente barzellette, notizie omofobe e film d'animazione da recensire.
 - **Reparto Musicale:** Comprende un'orchestra in studio che accompagna i momenti salienti dello show.
 ### Contratto di lavoro
-Copia del contratto di lavoro tra la produzione e Edoardo Zaggia
+Copia del contratto di lavoro tra la produzione e [[Edoardo Zaggia]]
 
 ![[Of_My_Home_Productions_Contratto.jpg]]
 

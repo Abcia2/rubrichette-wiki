@@ -7,12 +7,12 @@ tags:
 
 ![](../Assets/personaggi/zodiaca.jpg)
 
-|                        |                 |
-| ---------------------- | --------------- |
-| **Interpretato da**    | Edoardo         |
-| **Prima apparizione**  | [[Puntata 001]] |
-| **Ultima apparizione** | [[Puntata 010]] |
-| **Numero apparizioni** | 4               |
+|                        |                    |
+| ---------------------- | ------------------ |
+| **Interpretato da**    | [[Edoardo Zaggia]] |
+| **Prima apparizione**  | [[Puntata 001]]    |
+| **Ultima apparizione** | [[Puntata 010]]    |
+| **Numero apparizioni** | 4                  |
 
 ---
 

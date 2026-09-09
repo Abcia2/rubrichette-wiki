@@ -7,12 +7,12 @@ tags:
 
 ![[young_edoardino.jpg]]
 
-|                        |                 |
-| ---------------------- | --------------- |
-| **Interpretato da**    | Edoardo         |
-| **Prima apparizione**  | [[Puntata 008]] |
-| **Ultima apparizione** | [[Puntata 008]] |
-| **Numero apparizioni** | 1               |
+|                        |                    |
+| ---------------------- | ------------------ |
+| **Interpretato da**    | [[Edoardo Zaggia]] |
+| **Prima apparizione**  | [[Puntata 008]]    |
+| **Ultima apparizione** | [[Puntata 008]]    |
+| **Numero apparizioni** | 1                  |
 
 ---
 ## Descrizione

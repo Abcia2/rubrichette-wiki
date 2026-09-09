@@ -51,7 +51,7 @@ Si tratta di una **favola moderna** raccontata attraverso l'utilizzo di immagini
 ![[Assets/rubriche/ep004/ep004_1.jpg]]
 
 #### Collegamento
-Edoardo Zaggia introduce la rubrica spiegando che, a causa della **spossatezza del cambio di stagione** che costringe a stare in casa, lo show vuole far "viaggiare con la fantasia" il suo pubblico riscoprendo il piacere delle favole
+[[Edoardo Zaggia]] introduce la rubrica spiegando che, a causa della **spossatezza del cambio di stagione** che costringe a stare in casa, lo show vuole far "viaggiare con la fantasia" il suo pubblico riscoprendo il piacere delle favole
 #### Riassunto del contenuto
 La rubrica narra la prima parte della fiaba [[La storia di Donatella]]
 

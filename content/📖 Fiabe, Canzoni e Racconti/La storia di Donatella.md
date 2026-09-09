@@ -6,7 +6,7 @@ tags:
 ---
 _Una storia con immagini stock gratuite_
 
-**La storia di Donatella** è una rubrica narrativa della [[Puntata 004]], presentata come una "favola raccontata tramite l’utilizzo di immagini stock gratuite". Il segmento nasce con l’intento di far "viaggiare con la fantasia" il pubblico durante il periodo di spossatezza dovuto al cambio di stagione. Il conduttore, Edoardo Zaggia, definisce ironicamente il racconto come un **"grande classico della letteratura italiana"** a lieto fine.
+**La storia di Donatella** è una rubrica narrativa della [[Puntata 004]], presentata come una "favola raccontata tramite l’utilizzo di immagini stock gratuite". Il segmento nasce con l’intento di far "viaggiare con la fantasia" il pubblico durante il periodo di spossatezza dovuto al cambio di stagione. Il conduttore, [[Edoardo Zaggia]], definisce ironicamente il racconto come un **"grande classico della letteratura italiana"** a lieto fine.
 
 ---
 ## Sinossi

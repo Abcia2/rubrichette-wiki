@@ -52,7 +52,7 @@ title: Puntata 007 - SCOPRO CHE PRINCIPESSA DISNEY SONO + il SEGRETO della Cass�
 ![[Assets/rubriche/ep007/ep007_1.jpg]]
 
 #### Collegamento
-Edoardo Zaggia introduce la rubrica spiegando che in questo periodo è facile dimenticare chi siamo, e per fortuna esistono i test dell'internet scelti dalla "redazione di Rubrichette" per fare chiarezza.
+[[Edoardo Zaggia]] introduce la rubrica spiegando che in questo periodo è facile dimenticare chi siamo, e per fortuna esistono i test dell'internet scelti dalla "redazione di Rubrichette" per fare chiarezza.
 #### Riassunto del contenuto
 - **Primo Test ("Quanto siamo brutte"):** Svolto sul sito _maryalpersonality.com_. Edoardo risponde a domande sull'altezza ("normale"), sulla bellezza (si definisce "molto bella") e sulla forma del viso ("angolare"). Il risultato lo descrive come una **donna con tanto umorismo** che fa splendere il sole quando sorride.
 - **Secondo Test ("Quale principessa Disney sei"):** Svolto su _nostrofiglio.it_. Nonostante i numerosi pop-up, risponde a domande su abiti (smeraldo) e giri romantici (in gondola), risultando essere la principessa **Jasmine**. Il profilo descrive un bisogno di affermarsi al di là del proprio ruolo ufficiale.
