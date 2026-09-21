@@ -10,6 +10,7 @@ tags:
   - "#pippo-franco"
   - "#valentina-persia"
   - "#jerry-calà"
+  - "#bijoux"
 numero: "015"
 data: 2020-06-19
 link: https://youtu.be/Lb8oMiFgIqU
