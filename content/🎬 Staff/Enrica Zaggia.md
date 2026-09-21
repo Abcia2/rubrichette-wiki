@@ -5,7 +5,7 @@ tags:
 Talentuosa illustratrice nonché sorella del conduttore.
 
 ### La Enri
-Nome d'arte di Enrica Zaggia, è la sorella di [[Enrica Zaggia]], illustratrice e pittrice. Lavora nel suo studio personale, Daruma Studio, nella ridente provincia veneta.
+Nome d'arte di Enrica Zaggia, è la sorella di [[Edoardo Zaggia]], illustratrice e pittrice. Lavora nel suo studio personale, Daruma Studio, nella ridente provincia veneta.
 
 ![[enrica.jpg]]
 

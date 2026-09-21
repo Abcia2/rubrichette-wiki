@@ -66,6 +66,10 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #omofobia
 - #dialetti 
 - #lgbtq 
+- #fashion
+- #haute-couture 
+- #lavoretti 
+- #raccolta 
 ### Personaggi e VIP
 - #pippo-franco 
 - #lady-gaga 
@@ -76,3 +80,7 @@ Vedi lista completa con gli articoli inclusi: [[tags/]]
 - #papà-giorgio
 - #Sara
 - #Bettina
+- #valeria-marini
+- #topo-gigio
+- #valentina-persia
+- #jerry-calà

@@ -5,6 +5,7 @@ tags:
   - fai-da-te
   - shabby-chic
   - immagini-stock
+  - lavoretti
 numero: "004"
 data: 2020-04-03
 link: https://youtu.be/5syX2o2ZciU

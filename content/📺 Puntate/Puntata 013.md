@@ -5,6 +5,7 @@ tags:
   - "#lgbtq"
   - "#Sara"
   - "#Bettina"
+  - lavoretti
 numero: "013"
 data: 2020-06-05
 link: https://youtu.be/jVwxXg0Bjt8
@@ -141,6 +142,6 @@ Anzi: arcobaleno!
 
 ---
 ## Cliffhanger finale
-> *"Ci vediamo sempre qui settimana prossima per scoprire assieme qual è la differenza fra un gay è una teiera (Nessuna)"*
+> *"Ci vediamo sempre qui settimana prossima per scoprire assieme qual è la differenza fra un gay e una teiera (Nessuna)"*
 
 ![[fine.jpg]]

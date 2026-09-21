@@ -4,6 +4,7 @@ tags:
   - piercing
   - pasqua
   - oroscopo
+  - fai-da-te
 numero: "004"
 data: 2020-04-10
 link: https://youtu.be/t6xxUG-Z1eo

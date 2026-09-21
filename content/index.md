@@ -31,7 +31,7 @@ Wiki non ufficiale *e ancora in sviluppo* di **Rubrichette**, lo show online com
 
 ## Statistiche
 - **Puntate totali:** 153
-- **Puntate documentate:** 13
+- **Puntate documentate:** 15
 - **Personaggi:** 8
 - **Sponsor e Pubblicità**: 1
 - Tutorial: 2
