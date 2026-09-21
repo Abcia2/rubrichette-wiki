@@ -12,7 +12,7 @@ tags:
 Raccolta delle barrelette omofobe recitate nella [[Puntata 015]] nella rubrica [[Puntata 015#2. Barzellette Omofobette]]
 
 ### Scala di valutazione
-Per misurare la scarsa qualità della barzelletta del medico, [[Edoardo]] scelse di usare come parametro di giudizio N Pippo Franco su 5 Pippo Franco (lasciando aperta la possibilità di valutazioni in negativo).
+Per misurare la scarsa qualità della barzelletta del medico, [[Edoardo Zaggia]] scelse di usare come parametro di giudizio N Pippo Franco su 5 Pippo Franco (lasciando aperta la possibilità di valutazioni in negativo).
 
 La scala completa prevede:
 - Da -1 a -1 Jerry Calà - Per le più oscene
